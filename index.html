@@ -4,10 +4,20 @@
 
 <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 
+<script>
+var hpdata = new Array();
+
+d3.tsv('hpraw.csv')
+  .row(function(d) { hpdata.push(d); })
+  .get();
+
+console.log(hpdata);
+</script>
+
 </head>
 
 <body>
-<h1></h1>
+<h1>Color wheel construction from HandPrint</h1>
 
 <div id="colorwheel">
 </div>
@@ -15,5 +25,5 @@
 
 <hr>
 <address></address>
-<!-- hhmts start -->Last modified: Sat Dec 20 12:12:40 CET 2014 <!-- hhmts end -->
+<!-- hhmts start -->Last modified: Sat Dec 20 13:38:52 CET 2014 <!-- hhmts end -->
 </body> </html>
