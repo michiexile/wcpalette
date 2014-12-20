@@ -1,0 +1,736 @@
+PIGMENT - C.I. NAME	PIGMENT - CHEMICAL NAME	PAINT - MARKETING NAME	MANUFACTURER	CODE	Tr	St	VR	Gr	Bl	 Df	HA	HS	Lf
+PB15:1	alpha copper phthalocyanine (1935)	winsor blue RS	Winsor & Newton	208	3	3	64	0	3	2	274	 -20	8,8 
+PB15:1		phthalo blue RS	Rowney Artists	139	3	4	65	0	3	0	269	 -21	8,8 
+PB15:1		phthalo blue red	Rembrandt	583	4	4	64	0	2	3	273	 -21	7,8 
+PB15:1		phthalo blue	Schmincke	484	4	3	59	0	3	3	252	 -15	7,8 
+PB15:1		berlin blue	MaimeriBlu	359	3	3	60	1	3	2	256	 -12	6,8 
+PB15:6	epsilon copper phthalocyanine (1935)	phthalo blue (red shade)	Daniel Smith	119	4	3	66	0	2	0	275	 -26	8,8
+PB15:6		helio blue RS	Schmincke	478	3	3	63	0	2	0	270	 -29	7,8
+PB15:0		phthalocyanine blue red shade	M. Graham	141	 paint introduced after my last pigment tests
+PB15:3	beta copper phthalocyanine (1933, 1935)	phthalocyanine blue	M. Graham	140	4	4	67	0	3	2	271	 -32	8,8 
+PB15:3		phthalo blue	Daniel Smith	053	4	4	65	1	2	1	267	 -23	8,8 
+PB15:3		blockx blue	Blockx	254	3	4	65	0	3	0	270	 -27	8,8 
+PB15:3		phthalocyanine blue	Utrecht	154	4	4	52	0	3	3	246	 -16	8,8 
+PB15:3		winsor blue GS	Winsor & Newton	207	4	4	53	0	2	1	249	 -18	7,8 
+PB15:3		phthalo blue green	Rembrandt	576	4	4	56	0	2	3	257	 -19	7,8 
+PB15:3		phthalo blue GS	Rowney Artists	140	3	4	66	0	3	0	259	 -21	7,8 
+PB15:3		phthalo blue	DaVinci	267	4	4	66	0	2	2	270	 -30	7,8 
+PB15:3		primary blue	Lukas	1118	4	4	52	0	3	3	246	 -16	7,8 
+PB15:3		primary blue - cyan	MaimeriBlu	400	4	3	55	0	3	4	250	 -16	7,8 
+PB15:3		manganese blue hue	Winsor & Newton	107	4	1	24	2	2	1	224	 -10	6,7 
+PB15:3+PG7	beta copper phthalocyanine + chlorinated
+PB15:3+PG7		transparent turquoise	Rowney Artists	157	3	3	56	0	1	1	229	 -16	7,7 
+PB15:3+PG36	beta copper phthalocyanine + chlorobrominated
+PB16	metal free phthalocyanine (1936)	turquoise green	MaimeriBlu	350	4	3	61	0	3	3	222	 -7	7,8 
+PB16		phthalo turquoise	Winsor & Newton	526	4	4	71	1	2	2	251	 -32	.,.
+PB16		marine blue	Holbein	302	3	4	66	0	2	2	224	 -10	7,7 
+PB16		caribbean blue	Old Holland	232	3	4	68	1	3	0	227	 -11	6,8 
+PB16		turquoise green	Utrecht	009	3	4	60	0	3	0	224	 -7	6,8 
+PB16		phthalo turquoise	Winsor & Newton	526	 paint introduced after my last pigment tests
+PB17	trisulphonated copper phthalocyanine (1935)	peacock blue - [discontinued in 2005]	Holbein	101	3	3	51	0	2	0	238	 -16	7,8 
+PB27	hydrous ferric ferrocyanide; ferriammonium ferrocyanide (1704; c.1730)	prussian blue	M. Graham	153	4	3	68	2	2	3	266	 -19	8,8 
+PB27		prussian blue	Daniel Smith	036	2	3	72	2	1	2	274	 -31	8,8 
+PB27		prussian blue	DaVinci	271	3	4	72	2	2	3	270	 -20	8,8 
+PB27		prussian blue	Winsor & Newton	036	4	4	69	0	2	0	266	 -25	7,8 
+PB27		prussian blue	Holbein	097	2	3	70	0	2	2	272	 -31	7,8 
+PB27		prussian blue	Schmincke	492	2	4	70	0	2	1	270	 -27	7,8 
+PB27		paris blue	Lukas	1133	2	4	69	1	3	4	264	 -25	7,7 
+PB27		prussian blue	MaimeriBlu	402	2	4	69	1	3	4	264	 -25	6,8 
+PB27		prussian blue	Rembrandt	508	3	4	68	0	2	3	268	 -22	6,7 
+PB27		prussian blue	Rowney Artists	135	2	4	78	0	1	4	282	 -31	6,7 
+PB27		antwerp blue	Art Spectrum	003	3	3	47	0	1	0	W43	 -13	4,7 
+PB27		prussian blue	Utrecht	158	3	4	65	1	3	3	263	 -24	4,6 
+PB27		antwerp blue	Winsor & Newton	003	4	3	49	0	2	1	248	 -13	5,6 
+PB27+PY35	hydrous ferriammonium ferrocyanide + cadmium zinc sulfide	prussian green	Daniel Smith	128	3	4	62	0	3	2	198	 -5	6,7 
+PB28	cobalt aluminium oxide - (1802; c.1820)	cobalt blue	Winsor & Newton	070	4	1	44	3	3	2	265	 -11	8,8 
+PB28		cobalt blue	Holbein	290	2	1	54	2	3	2	272	 -15	8,8 
+PB28		cobalt blue deep	MaimeriBlu	374	1	3	57	1	2	2	279	 -22	8,8 
+PB28		cobalt blue	Utrecht	155	3	1	48	1	1	3	272	 -11	8,8 
+PB28		cobalt blue light	Schmincke	487	2	2	52	2	2	2	275	 -18	8,8 
+PB28		cobalt blue	M. Graham	090	1	2	55	1	2	2	275	 -12	8,7 
+PB28		cobalt blue	Daniel Smith	025	3	2	51	1	3	2	274	 -13	8,7 
+PB28		cobalt blue	Rembrandt	511	3	4	57	1	3	1	275	 -10	8,7 
+PB28		cobalt blue	Rowney Artists	109	2	4	53	1	2	1	269	 -15	8,7 
+PB28		cobalt blue light	MaimeriBlu	373	2	2	52	1	3	1	275	 -14	8,7 
+PB28		cobalt blue light	DaVinci	234	1	2	51	1	2	1	274	 -15	8,7 
+PB28		cobalt blue deep	DaVinci	2341	 paint introduced after my last pigment tests
+PB28+PB15	cobalt aluminium oxide + copper phthalocyanine	cyanine blue	Blockx	354	2	2	50	1	2	2	268	 -18	8,8 
+PB29	sodium aluminum sulfosilicate (1828)	french ultramarine blue	Winsor & Newton	068	3	1	64	3	3	1	288	 -18	8,8 
+PB29		french ultramarine blue	Rembrandt	503	3	2	64	1	2	1	290	 -10	8,8 
+PB29		ultramarine deep	Rembrandt	506	3	2	67	1	3	1	292	 -17	8,8 
+PB29		ultramarine deep	Holbein	094	4	1	64	4	2	1	292	 -18	8,8 
+PB29		ultramarine deep	Blockx	253	3	2	67	3	4	0	292	 -19	8,8 
+PB29		french ultramarine blue	Utrecht	159	3	2	67	2	2	2	293	 -17	8,8 
+PB29		ultramarine blue	M. Graham	190	1	3	69	1	3	2	294	 -15	8,7 
+PB29		ultramarine blue	Daniel Smith	004	4	3	66	1	3	2	291	 -18	8,7 
+PB29		french ultramarine	Daniel Smith	068	4	3	64	2	3	3	289	 -14	8,7 
+PB29		ultramarine GS	Winsor & Newton	220	3	3	52	2	2	2	279	 -15	8,7 
+PB29		permanent blue	Rowney Artists	137	3	1	58	3	3	1	282	 -17	8,7 
+PB29		french ultramarine blue	Rowney Artists	123	3	1	69	3	3	1	294	 -20	8,7 
+PB29		ultramarine light	MaimeriBlu	391	3	2	63	2	2	2	289	 -20	8,7 
+PB29		ultramarine deep	MaimeriBlu	392	1	3	71	3	2	1	296	 -21	8,7 
+PB29		ultramarine blue	Utrecht	151	4	3	58	2	2	0	282	 -27	8,7 
+PB29		ultramarine deep	Sennelier	315	1	3	66	1	3	1	292	 -18	8,7 
+PB29		ultramarine finest	Schmincke	494	2	2	63	1	1	1	285	 -18	8,7 
+PB29		ultramarine blue	DaVinci	284	3	2	67	1	1	2	294	 -25	8,7 
+PB29		ultramarine (green shade)	DaVinci	283	 paint introduced after my last pigment tests
+PB33	barium manganate sulfate (1869; 1935)	manganese blue - [discontinued in 2001]	Holbein	100	2	1	43	4	0	1	237	 -11	8,8 
+PB33		manganese blue - [discontinued in 2006]	Blockx	250	1	1	42	4	0	1	234	 -8	8,8 
+PB33		manganese blue	Lukas	1119	2	2	35	2	0	0	234	 -9	8,8 
+PB33		manganese blue	Old Holland	041	2	2	41	5	0	0	232	 -9	8,6 
+PB35	cobalt tin oxide - (1780; 1860)	cerulean blue	Rembrandt	012	1	2	48	1	3	1	247	 -10	8,8 
+PB35		cerulean blue	Utrecht	012	3	1	51	1	3	0	251	 -11	8,8 
+PB35		cerulean blue	Holbein	092	1	0	46	3	3	1	253	 -15	8,7 
+PB35		cerulean blue	Winsor & Newton	065	2	2	44	2	1	1	235	 -22	8,7 
+PB35		cerulean blue RS	Winsor & Newton	140	2	1	48	3	3	2	252	 -15	.,.
+PB35		coeruleum	Rowney Artists	111	2	3	40	2	1	2	248	 -13	8,7 
+PB36	cobalt chromium oxide - (1780; c.1870)	cerulean blue	Daniel Smith	003	3	3	51	1	3	4	242	 -6	8,8 
+PB36		cerulean blue GS	Daniel Smith	065	3	3	50	1	3	4	220	 -6	8,8 
+PB36		cobalt turquoise	Winsor & Newton	078	3	3	46	1	1	1	204	 -4	8,8 
+PB36		genuine cerulean blue	DaVinci	229	0	2	48	2	2	1	252	 -4	8,8 
+PB36		cobalt turquoise RS	Rowney Artists	155	1	4	62	1	2	1	248	 -14	8,8 
+PB36		cerulean blue	M. Graham	080	1	2	46	2	3	1	253	 -7	8,7 
+PB36		cerulean blue	MaimeriBlu	368	1	2	54	2	1	2	251	 -7	8,7 
+PB36		cerulean blue chromium	Utrecht	157	3	1	41	2	1	1	245	 -11	8,7 
+PB36		cobalt turquoise GS	Rowney Artists	156	1	3	57	1	2	2	236	 -11	8,7 
+PB36		cobalt green deep	Rowney Artists	325	1	3	51	1	3	1	201	 -9	8,7 
+PB36		cobalt turquoise	Daniel Smith	027	3	3	48	1	4	2	196	 -3	7,8 
+PB36		cerulean blue deep	M. Graham	081	 paint introduced after my last pigment tests
+PB36	cobalt magnesium oxide	cobalt turquoise	DaVinci	238	2	2	38	1	2	2	203	 -2	8,8 
+PB36		cobalt teal	M. Graham	097	 paint introduced after my last pigment tests
+PB60	indanthrone [aminoanthraquinone + potassium
+PB60		indanthrene blue	Winsor & Newton	223	3	4	75	1	2	1	286	 -20	8,8 
+PB60		indanthrene blue	Rembrandt	585	2	4	69	1	2	4	291	 -20	8,8 
+PB60		old delft blue	Old Holland	220	1	3	72	0	3	0	287	 -20	8,8 
+PB60		faience blue	MaimeriBlu	377	2	4	70	1	2	4	288	 -30	7,8 
+PB60		royal blue	Holbein	303	2	3	76	1	3	2	298	 -28	7,8 
+PB60		indanthrene blue	Rowney Artists	107	3	4	74	1	2	1	286	 -23	6,7 
+PB60		delft blue	Schmincke	482	2	4	73	0	3	4	295	 -33	6,7 
+PB60		dark blue indigo	Schmincke	498	3	2	67	1	1	1	277	 -14	6,7 
+PB60		anthraquinone blue	M. Graham	012	 paint introduced after my last pigment tests
+PB72	cobalt zinc aluminate (1991)	cobalt blue deep	Rowney Artists	116	1	4	54	2	4	1	276	 -9	8,7 
+PB74	cobalt zinc silicate	cobalt blue deep	Schmincke	488	2	0	61	3	3	1	286	 -13	8,8 
+PB74		cobalt blue deep	Old Holland	038	2	2	64	2	2	2	284	 -15	8,8 
+PB60+PBk6	indanthrone blue + lamp black	indigo	Daniel Smith	025	1	4	75	0	2	0	288	 -25	8,8 
+PB15+PV19  - 
+PB15+PBk7	phthalocyanine blue + lamp black	indigo	Rowney Artists	127	2	4	70	1	3	4	274	 -30	7,7 
+PB27+PBk7	prussian blue + lamp black	indigo	MaimeriBlu	422	3	3	69	1	3	4	209	 -41	7,7 
+PR60	disazo lake (1923)	permanent rose	Holbein	002	3	1	53	0	3	3	 24	 -20	3,6
+PR122	quinacridone magenta (1958)	verzino violet	MaimeriBlu	473	3	3	52	0	3	4	 1	 -11	8,8
+PR122		quinacridone magenta	Winsor & Newton	229	3	2	56	0	3	1	 3	 -14	7,8
+PR122		rose violet	Holbein	318	4	3	54	0	2	2	 0	 -11	7,8
+PR122		purple magenta	Schmincke	367	3	3	53	0	2	2	 359	 -10	7,8
+PR122		quinacridone magenta	Utrecht	003	4	3	55	0	2	1	 4	 -13	7,8
+PR122		quinacridone magenta	Rowney Artists	414	4	3	48	0	2	2	 356	 -7	7,8
+PR122		quinacridone purple	Sennelier	671	2	3	47	1	2	2	 354	 -4	7,8
+PR122		geranium lake bluish - [replaced in 2005]	Lukas	1081	2	3	53	0	2	2	 359	 -10	7,8
+PR122		old holland magenta	Old Holland	181	3	1	56	1	3	2	 3	 -13	7,8
+PR122+PR171	quinacridone magenta + benzimidazolone maroon	purple madder [hue] - [discontinued in 2005]	Winsor & Newton	205	3	3	68	0	3	1	 14	 -8	7,8
+PR122+BV10	quinacridone magenta + rhodamine B violet	opera	Holbein	213	2	2	43	0	3	1	 358	 -3	5,6
+PR122+BV10		opera rose	Winsor & Newton	448	3	1	43	1	4	3	 357	 -10	.,.
+PR171	benzimidazolone maroon (1960)	naphthamide maroon	Daniel Smith	039	3	3	64	0	2	0	 17	 -7	8,8
+PR202	quinacridone magenta (1958)	quinacridone fuchsia	Daniel Smith	132	4	4	54	0	2	3	 15	 -10	8,8
+PR202		quinacridone magenta	Daniel Smith	073	3	4	60	0	3	2	 10	 -14	7,8
+PV11+PR83	methyl violet + 1-,2-dihydroxy- - anthraquinone lake	bright rose	Holbein	370	2	3	51	1	3	1	 351	 -11	3,3
+PV19	gamma quinacridone (1958)	permanent rose	Winsor & Newton	075	4	3	49	0	2	3	 19	 -16	7,8
+PV19		quinacridone rose	M. Graham	156	4	4	55	1	2	1	 24	 -17	7,8
+PV19		quinacridone rose	Daniel Smith	076	3	3	47	0	4	3	 12	 -7	7,8
+PV19		quinacridone red	Daniel Smith	073	2	4	54	0	4	1	 21	 -12	7,8
+PV19		primary red - magenta	MaimeriBlu	256	3	3	45	0	2	4	 16	 -9	7,8
+PV19		rose lake	MaimeriBlu	182	2	4	52	0	3	4	 25	 -18	7,8
+PV19		ruby red	Schmincke	351	3	2	53	0	4	3	 23	 -14	7,8
+PV19		royal purple lake	Old Holland	184	3	2	52	0	3	2	 16	 -15	7,7
+PV19		permanent rose (quinacridone)	DaVinci	182	2	3	46	1	3	2	 12	 -9	6,8
+PV19		quinacridone rose	Rembrandt	366	3	3	50	0	4	3	 15	 -20	6,7
+PV19		red rose deep (quinacridone)	DaVinci	276	3	4	57	1	3	3	 26	 -23	6,7
+PV19		alizarin crimson (quinacridone)	DaVinci	202	2	4	59	1	2	2	 27	 -17	6,7
+PV19		carmine (quinacridone)	DaVinci	225	3	4	63	2	3	2	 25	 -13	6,7
+PV19		permanent rose	Rowney Artists	537	3	2	47	0	3	1	 19	 -17	6,6
+PV19+PY97	gamma quinacridone + arylide yellow FGL	rose dore	Winsor & Newton	089	3	3	38	0	4	4	 28	 -6	5,5
+PV19	beta quinacridone (1958)	quinacridone violet	M. Graham	158	4	4	63	0	2	2	 3	 -18	8,8
+PV19		quinacridone violet	Daniel Smith	089	2	4	65	0	2	3	 7	 -24	8,8
+PV19		permanent magenta	Winsor & Newton	489	3	4	62	0	3	3	 3	 -19	8,8
+PV19		permanent magenta - [discontinued 2005]	Winsor & Newton	073	3	4	61	0	3	2	 1	 -18	8,8
+PV19		permanent magenta	Rowney Artists	409	3	3	60	0	2	4	 1	 -20	8,8
+PV19		permanent red violet	Rembrandt	567	3	4	60	0	3	0	 6	 -12	8,8
+PV19		quinacridone violet	Utrecht	004	3	3	58	0	2	0	 356	 -15	8,8
+PV32	benzimidazolone bordeaux (1960)	bordeaux	Daniel Smith	008	3	4	55	1	1	1	 7	 -9	6,7
+PV42	quinacridone pink (1958)	quinacridone pink	Daniel Smith	013	3	4	55	1	2	1	 16	 -20	7,7
+PV42		magenta	Schmincke	352	4	3	52	2	2	1	 8	 -8	6,7
+PBr6	calcinated synthetic iron oxide (19th century)	van dyke brown - [discontinued in 2000]	M. Graham	194	0	4	74	2	2	1	43	 +22	6,8
+PBr6+PBk7	calcinated synthetic iron oxide + soot from lamp burned petroleum or wax	sepia	Daniel Smith	045	0	4	71	2	3	1	48	 +16	8,8
+PBr7		raw sienna	Utrecht	183	2	2	41	0	1	0	58	 +8	8,8
+PBr7		raw sienna	M. Graham	160	2	2	46	2	1	2	61	 +12	8,8
+PBr7		raw sienna	Daniel Smith	040	1	1	37	0	4	2	57	 +10	8,8
+PBr7		raw sienna	MaimeriBlu	161	3	3	40	1	2	3	59	 +17	8,8
+PBr7		raw sienna	DaVinci	273	1	2	33	1	1	2	64	 +7	8,8
+PBr7		italian earth	Old Holland	322	3	0	43	1	2	2	62	 +11	8,8
+PBr7		brown ochre	Winsor & Newton	059	3	2	34	0	2	2	58	 +10	.,.
+PBr7	calcinated natural iron oxide (antiquity)	burnt sienna	M. Graham	020	1	2	57	1	2	3	40	 +8	8,8
+PBr7		italian burnt sienna	Daniel Smith	106	2	2	51	0	1	0	39	 +9	8,8
+PBr7		pompeii red	Daniel Smith	116	3	2	50	1	1	0	42	 +13	8,8
+PBr7		burnt sienna	Utrecht	184	2	2	57	0	3	1	39	 +10	8,8
+PBr7		burnt sienna	MaimeriBlu	278	2	3	53	1	3	1	41	 +16	8,8
+PBr7		burnt sienna	Rembrandt	411	2	3	50	1	3	1	47	 +11	8,8
+PBr7		burnt sienna	Daniel Smith	008	1	3	56	1	3	1	40	 +10	8,8
+PBr7		burnt sienna	DaVinci	205	2	3	55	2	2	2	43	 +12	8,8
+PBr7		burnt sienna	Holbein	334	3	2	50	1	4	2	46	 +8	8,8
+PBr7		burnt sienna light	Blockx	141	2	3	61	1	2	0	39	 +11	8,8
+PBr7		burnt sienna deep	Blockx	143	1	3	64	1	2	1	37	 +12	8,8
+PBr7		raw umber	Winsor & Newton	554	3	2	47	3	1	2	64	 +14	.,.
+PBr7		raw umber	M. Graham	170	3	3	62	0	2	1	64	 +9	8,8
+PBr7		german greenish raw umber	Daniel Smith	121	3	2	56	0	2	1	73	 +9	8,8
+PBr7		raw umber	MaimeriBlu	493	4	1	54	0	1	2	60	 +13	8,6
+PBr7		raw umber	Rowney Artists	247	3	2	57	1	1	1	64	 +11	8,8
+PBr7		raw umber	DaVinci	274	2	4	67	1	2	1	61	 +6	8,8
+PBr7		raw umber	Rembrandt	408	3	2	46	1	1	1	65	 +6	8,8
+PBr7		raw umber	Utrecht	187	3	2	62	1	1	1	57	 +14	8,8
+PBr7		burnt umber	M. Graham	030	4	3	54	1	3	1	49	 +7	8,8
+PBr7		burnt umber	MaimeriBlu	492	2	4	65	0	1	0	46	 +19	8,8
+PBr7		burnt umber	Rowney Artists	223	2	4	58	0	1	0	53	 +9	8,8
+PBr7		burnt umber	Rembrandt	409	2	4	58	0	1	0	46	 +10	8,8
+PBr7		burnt umber	Utrecht	188	3	3	66	1	3	1	42	 +15	8,8
+PBr7		burnt umber	DaVinci	206	2	2	62	2	3	4	48	 +13	8,8
+PBr7+PR101
+PBr7+PR209	natural iron manganese oxide + quinacridone red	dragon's blood	MaimeriBlu	270	3	4	48	1	4	3	36	 +5	7,8
+PBr7+PY42	natural iron manganese oxide + synthetic yellow iron oxide	raw umber - [discontinued in 2005]	Winsor & Newton	041	4	2	36	1	3	1	69	 +7	7,8
+PBr7+PV19	natural iron manganese oxide + beta quinacridone	raw umber violet	Daniel Smith	090	2	4	65	0	3	2	23	 +11	7,7
+PBr7+PBk7	calcinated natural iron oxide + soot from lamp burned petroleum	sepia	M. Graham	178	2	4	71	1	1	0	46	 +18	8,8
+PBr7+PBk7	calcinated natural iron oxide + soot from furnace burned petroleum	warm sepia	Sennelier	440	2	4	62	0	3	0	55	 +9	8,8
+PBr7+PBk9	natural iron manganese oxide + soot from burned animal bone	sepia	MaimeriBlu	486	2	3	61	1	3	1	70	 +7	8,8
+PBr7+PBk11 - +PR101	natural iron manganese oxide + ferrite black iron oxide + red iron oxide	warm sepia	Rowney Artists	486	2	3	69	1	3	1	51	 +9	7,7
+PBr11	magnesium ferrite (1962)	lunar earth	Daniel Smith	019	1	1	48	2	1	2	49	 +4	8,8
+PBr24	chrome titanium oxide (1946)	naples yellow deep	Winsor & Newton	203	1	3	23	0	2	1	68	 +7	8,8
+PBr24		titanate gold ochre	Schmincke	659	1	2	23	0	1	0	67	 +8	8,8
+PBr24		naples yellow deep	DaVinci	260	 paint introduced after my last pigment tests
+PBr24+PW6		naples yellow [hue]	Winsor & Newton	422	2	1	15	1	2	2	73	 +9	.,.
+PBr25	benzimidazolone brown (1960)	permanent brown	Daniel Smith	032	4	4	58	1	2	2	39	 0	8,8
+PBr33	zinc iron chromite (1974)	walnut brown	Schmincke	041	0	3	64	2	4	1	40	 +15	8,8
+PBr41	disazo condensation brown (1951)	translucent brown	Schmincke	648	3	4	60	1	2	1	38	 +6	7,8
+PO48	quinacridone orange (1958)	quinacridone burnt orange	Daniel Smith	091	4	3	47	0	2	1	45	 +9	7,8
+PO48		quinacridone rust	M. Graham	091	 paint introduced after my last pigment tests
+PO48		quinacridone burnt orange	DaVinci	2712	 paint introduced after my last pigment tests
+PO49	quinacridone gold (1958)	quinacridone gold	Daniel Smith	096	4	3	38	2	4	3	61	 +14	7,8
+PO49		golden lake - [discontinued in 2005]	MaimeriBlu	128	4	2	38	2	2	3	59	 +16	7,8
+PO49		quinacridone gold - [discontinued in 2005]	Winsor & Newton	228	3	4	34	1	2	3	60	 +15	7,8
+PO49+PR209	quinacridone gold + quinacridone red	quinacridone sienna - [discontinued in 2005]	Daniel Smith	095	4	4	45	0	3	2	40	 +11	7,8
+PO65	methin nickel complex	golden barok red	Old Holland	136	2	0	56	2	4	1	30	 +13	7,8
+PR101	calcinated synthetic red iron oxide (19th century)	venetian red [mars red]	Winsor & Newton	051	0	4	54	0	2	2	38	 +2	8,8
+PR101		venetian red	Daniel Smith	051	0	3	59	1	3	2	35	 +1	8,8
+PR101		italian venetian red	Daniel Smith	122	1	3	47	1	3	2	40	 +5	8,8
+PR101		venetian red	MaimeriBlu	262	0	4	59	0	2	2	35	 +7	8,8
+PR101		venetian red	Rowney Artists	583	0	4	58	0	2	2	36	 +4	8,8
+PR101		venetian red	Utrecht	005	1	3	60	0	3	2	28	 -1	8,8
+PR101		venetian red	DaVinci	288	0	4	62	1	2	2	32	 +4	8,8
+PR101		venetian red	Rembrandt	349	1	3	56	0	3	2	36	 +2	8,8
+PR101		english red	Rembrandt	339	1	3	53	0	3	2	38	 +5	8,8
+PR101		english red earth	Daniel Smith	137	2	2	54	2	3	2	38	 +12	7,8
+PR101		english red ochre	Daniel Smith	136	2	1	54	1	4	3	34	 -1	7,8
+PR101		light red	Rowney Artists	527	1	3	56	0	3	2	38	 +5	8,8
+PR101		indian red	Utrecht	006	3	3	45	0	3	1	34	 +3	8,8
+PR101		indian red	Daniel Smith	044	1	4	58	0	1	2	29	 +2	8,8
+PR101		indian red	Winsor & Newton	023	0	4	62	0	1	2	30	 +3	8,8
+PR101		indian red	Rowney Artists	523	0	4	61	0	1	2	38	 -1	8,8
+PR101		burnt sienna	Winsor & Newton	008	4	3	39	1	2	2	45	 +13	7,8
+PR101		burnt sienna	Rowney Artists	221	4	3	56	1	2	2	38	 +14	7,8
+PR101		transparent mars red	MaimeriBlu	250	3	2	48	2	1	2	42	 +20	7,8
+PR101		transparent oxide red	Rembrandt	378	1	3	47	0	3	2	41	 +5	8,6
+PR101		transparent red oxide	Daniel Smith	128	4	2	58	2	3	3	33	 +15	8,8
+PR101		transparent mars brown	MaimeriBlu	477	4	3	43	1	3	4	52	 +10	7,7
+PR101		transparent brown oxide	Daniel Smith	129	3	2	63	1	3	4	35	 +18	8,8
+PR101		mars brown	Old Holland	346	1	1	61	2	3	4	41	 +7	7,7
+PR101		caput mortuum violet [mars violet]	Winsor & Newton	215	0	4	66	2	4	2	27	 +3	7,8
+PR101		mars violet - [discontinued in 2002]	Daniel Smith	102	0	3	65	1	3	2	26	 +7	7,8
+PR101		mars violet	Rowney Artists	411	1	3	62	0	3	2	24	 +6	7,8
+PR101		burnt sienna deep	DaVinci	2051	 paint introduced after my last pigment tests
+PR101		transparent red oxide	M. Graham	187	 paint introduced after my last pigment tests
+PR101		terra rosa	M. Graham	179	 paint introduced after my last pigment tests
+PR101+PR264	calcinated synthetic red iron oxide + diketo-pyrrolo pyrrole carmine	indian red	Rembrandt	347	1	2	57	0	1	1	31	 +2	7,7
+PR101+PY42	calcinated synthetic red iron oxide + synthetic yellow iron oxide	light red - [discontinued in 2005]	Winsor & Newton	029	1	2	48	0	1	1	39	 +8	7,7
+PR101+PBr7	calcinated synthetic red iron oxide + calcinated natural iron oxide	terre ercolano	Daniel Smith	117	3	2	46	1	1	1	42	 +3	7,7
+PR101+PG7	calcinated synthetic red iron oxide+copper phthalocyanine	transparent oxide brown	Rembrandt	378	1	3	44	0	3	2	51	 +5	7,7
+PR101+PG36	calcinated synthetic red iron oxide + copper phthalocyanine	brown stil de grain	MaimeriBlu	488	4	4	43	2	2	3	45	 +8	7,7
+PR101+PBk6	calcinated synthetic red iron oxide + soot from lamp burned petroleum
+PR101+PBk6		sepia	Winsor & Newton	045	2	4	72	0	1	0	59	 +4	7,8
+PR102	calcinated natural red iron oxide (antiquity)	yellow ochre burnt	Old Holland	060	4	0	47	1	2	1	49	 +10	8,8
+PR102		yellow ochre half burnt	Old Holland	059	2	0	39	0	3	1	55	 +11	8,6
+PR102		light red	Winsor & Newton	362	.	.	.	.	.	.	.	 .	.,.
+PR175	benzimidazolone red (1960)	deep scarlet	Daniel Smith	046	3	3	58	0	4	1	34	 -5	8,8
+PR206	quinacridone maroon (1958)	quinacridone burnt scarlet	Daniel Smith	007	3	4	54	0	4	4	31	 +2	7,8
+PR206		brown madder [hue]	Winsor & Newton	201	3	2	50	1	3	1	34	 0	7,8
+PR206		transparent red brown	Rowney Artists	261	3	2	54	1	3	1	32	 +1	7,8
+PR206		avignon orange	MaimeriBlu	053	3	3	55	0	3	4	30	 +4	7,8
+PR206+PR122 - +PR254	quinacridone maroon + quinacridone magenta + diketo-pyrrolo pyrrole red	crimson lake	MaimeriBlu	053	3	4	53	0	3	4	28	 -2	7,7
+PR233	chrome aluminum stannate (c.1780)	potter's pink	Winsor & Newton	537	2	1	42	0	2	2	15	 +3	.,.
+PY42	synthetic yellow iron oxide (19th century)	gold ochre	Winsor & Newton	059	2	3	39	0	2	2	56	 +9	8,8
+PY42		mars yellow	Daniel Smith	060	1	1	38	0	3	1	64	 +7	8,8
+PY42		yellow ochre	Rowney Artists	663	1	3	30	0	2	3	69	 +7	8,8
+PY42		yellow ochre	MaimeriBlu	131	1	3	38	0	2	3	68	 +5	8,8
+PY42		raw sienna	Lukas	1039	1	3	38	0	2	3	68	 +5	8,8
+PY42		burnt sienna	Lukas	1109	1	3	38	0	2	3	68	 +5	8,8
+PY42		transparent yellow oxide	Rembrandt	265	1	3	34	0	2	3	65	 +9	8,6
+PY42		transparent yellow oxide	Daniel Smith	121	4	1	43	1	3	2	61	 +10	8,6
+PY42		mars yellow	Old Holland	319	2	0	33	0	3	2	66	 +9	8,8
+PY42		raw sienna deep	DaVinci	2731	 paint introduced after my last pigment tests
+PY42		transparent yellow oxide	M. Graham	188	 paint introduced after my last pigment tests
+PY42+PR101	synthetic yellow iron oxide + calcinated synthetic red iron oxide	raw sienna	Winsor & Newton	040	3	0	19	0	2	1	73	 +8	8,8
+PY42+PR101		raw sienna	Rowney Artists	667	3	0	45	0	2	1	63	 +8	8,8
+PY43	natural yellow iron oxide [limonite] (antiquity)	yellow ochre	Winsor & Newton	216	3	2	25	0	2	2	69	 +10	8,8
+PY43		yellow ochre light	Winsor & Newton	745	3	0	19	3	4	2	76	 +5	.,.
+PY43		yellow ochre	Daniel Smith	059	2	1	29	1	2	2	66	 +7	8,8
+PY43		verona gold ochre	Daniel Smith	123	3	1	26	1	2	2	72	 +7	8,8
+PY43		french ochre	Daniel Smith	134	3	1	27	0	2	3	69	 +5	8,8
+PY43		italian deep ochre	Daniel Smith	135	4	1	37	0	2	2	55	 +7	8,8
+PY43		yellow ochre	Utrecht	181	2	1	25	0	1	0	69	 +8	8,8
+PY43		yellow ochre	M. Graham	200	1	3	36	1	2	1	68	 +7	8,8
+PY43		yellow ochre	DaVinci	292	1	1	32	1	2	0	66	 +12	8,8
+PY43		gold ochre	Rembrandt	231	1	3	38	1	2	1	59	 +9	8,8
+PY43		raw sienna	Rembrandt	234	1	3	26	1	2	1	66	 +11	8,8
+PY43		yellow ochre	Blockx	111	2	2	32	0	2	1	68	 +6	8,8
+PY43+PY42	natural yellow iron oxide + synthetic yellow iron oxide	yellow ochre	Rembrandt	227	1	3	31	1	2	1	68	 +6	8,8
+PY119	zinc magnesium ferrite	mars yellow	Holbein	328	0	1	45	1	2	2	55	 +8	8,8
+PY119		magnesium brown	Winsor & Newton	381	1	3	50	2	3	2	50	 +3	8,8
+PG7	chlorinated copper phthalocyanine (1927; 1938)	winsor green BS	Winsor & Newton	209	3	4	53	0	1	1	178	 -2	8,8
+PG7		phthalocyanine green	M. Graham	150	3	4	64	1	2	2	184	 -5	8,8
+PG7		phthalo green BS	Daniel Smith	055	3	4	59	0	2	1	179	 -2	8,8
+PG7		phthalo green	Rembrandt	675	4	3	59	0	3	4	176	 -1	8,8
+PG7		cupric green deep	MaimeriBlu	324	4	3	52	0	3	4	177	 -2	8,8
+PG7		phthalo green	DaVinci	268	4	4	62	1	2	2	175	 -1	8,8
+PG7		blockx green	Blockx	263	4	4	58	1	1	3	175	 -3	8,8
+PG7		phthalocyanine green	Utrecht	167	4	3	55	0	3	1	174	 -3	7,8
+PG7		phthalo green	Rowney Artists	361	4	3	50	0	3	1	175	 -2	7,8
+PG7+PY150	chlorinated copper phthalocyanine + nickel azomethine yellow	hooker's green deep	Rembrandt	623	2	3	58	0	3	2	161	 0	7,8
+PG7+PY175 - +PW4	chlorinated copper phthalocyanine + zinc oxide + benzimidazolone
+PG7+PY151	chlorinated copper phthalocyanine + benzimidazolone yellow	permanent green light	M. Graham	130	2	3	63	0	3	2	160	 -7	7,8
+PG7+PY3	chlorinated copper phthalocyanine + arylide yellow 10G	permanent green light	Utrecht	161	2	3	52	0	4	1	159	 -16	7,7
+PG7+PY3	chlorinated copper phthalocyanine + arylide yellow 10G	permanent green	Daniel Smith	022	2	3	44	0	3	0	158	 -13	7,8
+PG7+PY175	chlorinated copper phthalocyanine + benzimidazolone lemon	permanent green deep	MaimeriBlu	340	3	2	43	0	2	4	158	 -9	7,8
+PG7+PY154	chlorinated copper phthalocyanine + benzimidazolone yellow	permanent green	Rembrandt	662	2	3	57	0	3	2	157	 -7	7,8
+PG7+PY3 - +PV19	chlorinated copper phthalocyanine + arylide yellow 10G + quinacridone rose	hooker's green #2 [dark]	Rowney Artists	354	4	3	36	0	3	1	153	 -5	5,6
+PG7+PY3	chlorinated copper phthalocyanine + arylide yellow 10G	permanent green light	Daniel Smith	047	1	3	35	0	4	2	148	 -15	6,7
+PG7+PY153	chlorinated copper phthalocyanine + nickel dioxine yellow	hooker's green #1 [light]	Rowney Artists	353	4	3	60	0	3	1	140	 -12	4,4
+PG7+PO49	chlorinated copper phthalocyanine + quinacridone gold	hooker's green	MaimeriBlu	325	3	3	60	0	2	3	139	 -14	7,8
+PG7+PY110	chlorinated copper phthalocyanine + tetrachloro-isoindoline yellow	hooker's green	M. Graham	108	1	3	63	0	4	1	139	 -5	7,8
+PG7+PY3	chlorinated copper phthalocyanine + arylide yellow 10G	phthalo yellow green	Daniel Smith	124	2	3	28	0	3	2	135	 -18	7,7
+PG7+PO62	chlorinated copper phthalocyanine + benzimidazolone orange H5G	sap green	M. Graham	174	1	3	61	0	4	1	132	 -11	7,8
+PG7+PY138	chlorinated copper phthalocyanine + quinophthalone yellow	vivid green	Rowney Artists	047	1	3	31	0	4	2	131	 -12	7,8
+PG7+PY150	chlorinated copper phthalocyanine + nickel azomethine yellow	sap green	Rembrandt	623	2	3	55	0	3	2	131	 -12	7,8
+PG7+PY1 - +PY42	chlorinated copper phthalocyanine + arylide yellow G + synthetic yellow iron oxide	permanent green #1	Holbein	266	2	1	33	1	0	1	128	 -10	5,6
+PG7+PY42	chlorinated copper phthalocyanine + yellow iron oxide	sap green	DaVinci	277	3	3	45	2	1	1	128	 -1	7,8
+PG7+PY153 - +PR101	chlorinated copper phthalocyanine + nickel dioxine yellow + transparent red iron oxide	sap green	Rowney Artists	375	4	3	62	0	3	1	123	 -10	7,8
+PG7+PO49	chlorinated copper phthalocyanine + quinacridone gold	sap green	Daniel Smith	043	3	3	51	1	2	0	119	 -12	8,8
+PG7+PBr7	chlorinated copper phthalocyanine + natural iron manganese oxide	terre verte	Schmincke	516	4	1	31	1	2	2	107	 -2	8,8
+PG7+PY150 - +PV19	chlorinated copper phthalocyanine + nickel azomethine yellow + quinacridone rose	olive green	Rembrandt	620	2	3	48	0	3	2	103	 0	7,8
+PG7+PY42	chlorinated copper phthalocyanine + synthetic yellow iron oxide	olive green	Winsor & Newton	033	4	0	38	1	1	1	99	 -4	7,8
+PG7+PY153 - +PR264	chlorinated copper phthalocyanine + nickel dioxine yellow + pyrrole carmine	olive green	Rowney Artists	363	4	3	69	0	3	1	95	 +3	2,4
+PG8	nitroso iron complex (1921)	hooker's green	Utrecht	163	3	3	62	1	4	0	141	 -11	5,7
+PG17	anhydrous chromium sesquioxide - (1809; c.1840)	oxide of chromium	Winsor & Newton	072	0	4	53	1	3	1	140	 -13	8,8
+PG17		olive green	MaimeriBlu	331	0	3	52	0	1	2	138	 -16	8,8
+PG17		oxide of chromium green	Rowney Artists	367	0	3	52	0	1	2	139	 -10	8,8
+PG17		chromium oxide green	Rembrandt	668	0	3	51	0	1	2	137	 -12	8,8
+PG17		chromium oxide green	DaVinci	232	 paint introduced after my last pigment tests
+PG17+PG23		terre verte	Holbein	065	0	2	54	1	2	2	138	 -17	8,8
+PG18	hydrous chromium sesquioxide - (1838; 1862)	viridian	M. Graham	195	4	2	39	3	1	1	175	 -2	8,8
+PG18		viridian	Daniel Smith	077	4	2	38	3	3	2	176	 -4	8,8
+PG18		viridian	Winsor & Newton	077	3	3	44	2	3	2	176	 -4	8,8
+PG18		viridian	Rowney Artists	381	4	1	50	3	2	2	175	 -2	8,8
+PG18		viridian	Rembrandt	616	4	1	40	3	2	2	174	 -2	8,8
+PG18		viridian	Utrecht	164	4	1	43	2	3	0	174	 -1	8,8
+PG18		viridian green	DaVinci	290	3	1	53	0	1	2	176	 0	8,8
+PG18		viridian	MaimeriBlu	348	3	1	36	1	3	2	174	 -4	8,8
+PG18		viridian	Lukas	1154	4	1	38	2	3	2	175	 -8	8,8
+PG18		emerald green	Blockx	261	4	1	38	2	3	2	175	 -8	8,8
+PG18+PG7		viridian	Holbein	260	4	1	33	3	2	2	174	 -1	8,8
+PG18+PY37	hydrous chromium sesquioxide + cadmium sulfide	cobalt green	Holbein	268	1	1	36	2	3	1	185	 -3	8,8
+PG18+PBr7	hydrous chromium sesquioxide + natural iron 
+PG19	cobalt zinc oxide (1780, c.1835)	cobalt green	Rowney Artists	324	3	1	33	4	0	0	188	 -4	8,8
+PG19		cobalt green pale	Daniel Smith	049	3	1	34	4	0	0	188	 -23	8,8
+PG19		cobalt green	Rembrandt	610	3	1	42	4	0	0	188	 -11	8,8
+PG23	celadonite [green shade] (antiquity)	bohemian green earth	Daniel Smith	104	4	0	31	1	2	1	110	 -6	8,8
+PG23		green earth	Rembrandt	629	2	0	36	2	1	2	128	 -5	8,8
+PG23		terre verte	Blockx	161	3	2	30	1	2	1	105	 -10	7,8
+PG23		terre verte (yellow shade)	Winsor & Newton	638	 paint introduced after my last pigment tests
+PG23+PG17	celadonite + hydrated chromium oxide	terre verte	MaimeriBlu	296	2	0	31	2	1	2	121	 -7	8,8
+PG23+PG18 - +PB28	glauconite [blue shade] + hydrated chromium oxide + cobalt blue	terre verte	Winsor & Newton	048	2	4	42	3	0	1	155	 -16	8,8
+PG26	cobalt chrome oxide - (1780; c.1835)	cobalt green deep	Old Holland	267	1	1	57	1	3	0	188	 -6	8,8
+PG26		cobalt green dark	Schmincke	533	1	4	50	2	1	2	168	 -9	8,8
+PG36	chlorobrominated copper phthalocyanine (1938)	phthalo green YS	Daniel Smith	054	4	4	48	1	1	2	161	 -2	7,8
+PG36		cupric green light	MaimeriBlu	322	4	3	49	1	3	4	160	 -3	7,8
+PG36		bright green	Rembrandt	615	4	3	44	1	3	4	159	 0	7,8
+PG36		bamboo green	Holbein	278	3	4	41	0	2	3	160	 0	7,8
+PG36		winsor green YS	Winsor & Newton	210	3	4	44	0	3	2	163	 -6	7,7
+PG36		phthalocyanine green yellow shade	M. Graham	151	 paint introduced after my last pigment tests
+PG36+PO49 - +PY3	chlorobrominated copper phthalocyanine + quinacridone gold + arylide yellow 10G	hooker's green	Daniel Smith	110	3	3	53	0	3	2	147	 -12	7,7
+PG36+PO49	chlorobrominated copper phthalocyanine + quinacridone gold	hooker's green - [discontinued in 2005]	Winsor & Newton	202	3	4	45	0	2	2	140	 -4	7,7
+PG36+PY110		hooker's green	Winsor & Newton	311	3	4	49	1	22	3	137	 -8	.,.
+PG36+PY175	chlorobrominated copper phthalocyanine + benzimidazolone lemon	permanent green light	MaimeriBlu	339	3	1	26	1	3	4	137	 -7	5,6
+PG36+PO49		permanent sap green - [discontinued in 2005]	Winsor & Newton	204	3	4	53	0	2	1	130	 -6	7,7
+PG36+PY110		permanent sap green	Winsor & Newton	503	3	4	56	1	2	3	126	 -9	.,.
+PG36+PO49		sap green	MaimeriBlu	358	3	3	50	2	3	4	118	 -7	7,7
+PG36+PY17 - +PG8	chlorobrominated copper phthalocyanine + diarylide yellow + nitroso iron complex	sap green	Holbein	275	3	2	54	1	3	1	117	 -8	4,6
+PG50	cobalt titanium oxide (1992)	cobalt teal blue	Daniel Smith	078	3	2	28	2	4	1	198	 -5	8,8
+PG50		colbalt turquoise light	Winsor & Newton	235	2	3	31	1	2	1	198	 -4	8,8
+PG50		cobalt teal	Utrecht	166	2	0	27	1	0	2	196	 -3	8,8
+PG50	cobalt titanium nickel zinc oxide (1992)	cobalt green [BS]	Winsor & Newton	067	2	4	36	2	1	1	178	 -3	8,8
+PG50		cobalt green [YS]	Daniel Smith	067	2	2	45	2	3	2	156	 -9	8,8
+PG50		cobalt green deep	MaimeriBlu	317	0	2	48	2	2	1	155	 -7	8,8
+PG50		cobalt green YS - [discontinued in 2005]	Winsor & Newton	234	1	3	44	2	3	2	153	 -3	8,8
+PG50		cobalt green pure	Schmincke	535	1	4	47	2	4	1	152	 -9	8,8
+PG50		cobalt green YS	Holbein	276	1	3	42	1	2	2	151	 -3	8,8
+PG50		cobalt green light	MaimeriBlu	316	1	1	33	1	1	2	150	 -9	8,8
+PG50		cobalt green	M. Graham	194	 paint introduced after my last pigment tests
+PO5	beta naphthol scarlet (1960)	permanent red light - [discontinued in 2005]	Lukas	1099	2	2	39	0	1	1	43	 +8	3,6 
+PO20	cadmium sulfoselenide (1892; 1910)	cadmium orange	M. Graham	038	2	4	31	1	3	1	50	 0	8,8
+PO20		cadmium orange - [discontinued in 2006]	Daniel Smith	081	3	4	28	1	3	3	52	 0	8,8 
+PO20		cadmium orange	MaimeriBlu	054	1	3	33	0	2	1	48	 -2	8,8 
+PO20		cadmium orange	Utrecht	133	2	3	30	0	3	0	50	 +3	8,8 
+PO20		cadmium orange	DaVinci	208	2	3	34	1	3	1	47	 +7	8,8 
+PO20		cadmium yellow orange	Blockx	312	1	4	26	1	2	2	60	 +9	8,8 
+PO20		cadmium red orange	Blockx	321	0	4	39	0	3	2	41	 +4	8,8 
+PO20		cadmium orange light	Schmincke	227	2	4	23	0	2	1	63	 +4	8,8 
+PO20		cadmium orange deep	Schmincke	228	1	4	29	1	3	1	53	 +2	8,8 
+PO20		cadmium red orange	Schmincke	348	1	4	38	1	3	2	42	 -1	8,8 
+PO20+PY35	cadmium sulfoselenide + cadmium zinc sulfide	cadmium orange	Rowney Artists	615	1	3	29	0	4	1	55	 +6	7,8 
+PO20+PY35		cadmium orange	Rembrandt	211	1	4	29	1	3	2	54	 +5	7,8 
+PO34	dizazopyrazolone orange (1960)	cinnebar red [hue] - [discontinued in 2005]	Lukas	1088	2	2	36	0	1	1	39	 +5	2,5 
+PO36	benzimidazolone scarlet (1960)	permanent vermilion	Art Spectrum	W11	2	2	42	0	1	1	41	 +5	8,8 
+PO36		benzimida orange deep	DaVinci	2041	 paint introduced after my last pigment tests
+PO43	perinone orange (1965)	perinone orange	Daniel Smith	014	2	4	40	0	3	2	42	 0	7,6 
+PO43		orange lake	MaimeriBlu	125	2	3	34	0	2	3	46	 -3	7,6 
+PO43		perinone orange	Utrecht	000	3	1	35	0	3	3	45	 -1	7,6 
+PO62	benzimidazolone orange H5G (1960)	permanent orange	Daniel Smith	212	3	3	29	0	3	4	50	 +11	7,8 
+PO62		winsor orange	Winsor & Newton	212	2	4	26	0	3	3	55	 +8	7,7 
+PO62		benzimida orange	DaVinci	204	2	4	26	0	2	2	55	 +5	7,8 
+PO62		helio genuine orange	Lukas	1048	2	4	26	0	2	2	55	 +5	7,8 
+PO62		permanent orange	MaimeriBlu	110	2	3	24	0	2	2	58	 +5	6,7 
+PO62		azo orange	M. Graham	017	 paint introduced after my last pigment tests
+PO67	pyrazoloquinazolone orange (1967)	coral orange	Old Holland	145	1	2	39	0	4	1	44	 -1	6,6 
+PO69	isoindoline orange (1964)	scheveningen orange - [discontinued in 2003]	Old Holland	018	1	2	35	0	3	2	46	 +9	3,7 
+PO71	diketo-pyrrolo pyrrole orange (1984)	translucent orange	Schmincke	218	3	2	42	1	3	0	43	 0	7,6 
+PO73	diketo-pyrrolo pyrrole orange (1984)	pyrrol orange	Daniel Smith	126	3	4	38	0	2	2	46	 -8	7,8 
+PO73		winsor orange RS	Winsor & Newton	723	3	3	38	0	3	3	48	 -9	7,8
+PO73		warm orange	Rowney Artists	633	1	4	35	0	1	3	46	 -9	7,8 
+PO73		scarlet pyrrol	M. Graham	019	 paint introduced after my last pigment tests
+PO73+PY154	diketo-pyrrolo pyrrole orange + benzimidazolone
+PO73+PO62	diketo-pyrrolo pyrrole orange + benzimidazolone
+PR108	cadmium sulfoselenide	cadmium yellow orange	Holbein	244	2	3	25	0	2	2	64	 +4	7,8 
+PR108		cadmium red orange	Holbein	216	1	3	36	1	2	2	44	 -2	7,8 
+PR108		cadmium red orange	Sennelier	609	2	4	34	0	1	3	45	 -3	7,8 
+PY35+PR108	cadmium zinc sulfide + cadmium sulfoselenide	cadmium orange	Winsor & Newton	089	1	3	30	0	4	1	56	 +10	7,8 
+PR3	beta naphthol red (1873)	blockx red - [discontinued in 2008]	Blockx	225	2	3	54	0	3	4	33	 -3	3,6
+PR9	naphthol AS red (1920)	permanent red deep - [discontinued in 2005]	Lukas	1097	2	3	46	0	3	4	33	 -3	1,4
+PR23	naphthol AS carmine (1911)	crimson lake	Holbein	210	2	3	57	0	2	2	 26	 -20	3,6
+PR48	beta oxynaphtholic acid scarlet (1902)	scarlet lake	Holbein	225	2	3	46	0	3	0	38	 -13	1,6
+PR83	1-, 2-dihydroxyanthraquinone lake (1868)	alizarin crimson	Rembrandt	326	4	2	54	0	3	2	 20	 -5	2,6
+PR83		alizarin crimson	M. Graham	010	4	4	55	0	1	4	 26	 -10	1,6
+PR83		alizarin crimson	Daniel Smith	001	4	3	61	1	4	1	 25	 -10	1,6
+PR83		alizarin crimson	Winsor & Newton	002	4	3	59	0	3	2	 26	 -13	1,5
+PR83		alizarin crimson	Utrecht	147	4	3	48	0	2	2	 22	 -15	1,5
+PR83		alizarin crimson	Rowney Artists	515	3	3	59	0	1	2	 25	 -8	1,4
+PR83		carmine [hue]	Holbein	211	4	2	47	0	3	2	 22	 -9	1,4
+PR83		alizarin violet lake	Sennelier	940	4	2	55	1	4	3	 337	 -2	1,3
+PR106	mercuric sulfide (c.800)	vermilion [genuine] - [discontinued in 1999]	Blockx	320	0	4	43	1	4	1	35	 +1	3,3
+PR108	cadmium sulfoselenide (1892; 1910)	cadmium scarlet	Winsor & Newton	084	2	3	43	0	3	3	40	 -3	8,8
+PR108		cadmium red	Winsor & Newton	082	1	3	50	0	3	2	34	 -2	8,8
+PR108		cadmium red deep	Winsor & Newton	083	2	4	50	1	4	2	31	 -2	8,8
+PR108+PY53	cadmium sulfoselenide + nickel titanate yellow	vermilion hue - [discontinued in 2005]	Winsor & Newton	232	2	4	41	1	4	3	34	 0	8,8
+PR108		cadmium red light	M. Graham	050	1	4	48	1	3	1	32	 0	8,8
+PR108		cadmium red	M. Graham	040	0	4	53	1	2	3	26	 0	8,8
+PR108		cadmium red pale	Rowney Artists	506	0	4	45	1	3	1	34	 0	8,8
+PR108		cadmium red	Rowney Artists	501	0	4	49	1	3	1	31	 0	8,8
+PR108		cadmium red deep	Rowney Artists	502	0	4	59	1	3	1	25	 0	8,8
+PR108		cadmium scarlet	DaVinci	213	1	4	39	0	3	2	39	 0	8,8
+PR108		cadmium red medium	DaVinci	211	1	4	43	1	3	2	37	 -4	8,8
+PR108		cadmium red deep	DaVinci	210	1	4	51	1	2	1	29	 -3	8,8
+PR108:1	cadmium lithopone	cadmium red scarlet - [discontinued in 2006]	Daniel Smith	006	0	4	42	0	1	1	37	 -1	8,8
+PR108:1		cadmium red - [discontinued in 2006]	Daniel Smith	082	1	4	49	1	2	2	31	 0	8,8
+PR108:1		cadmium red deep - [discontinued in 2006]	Daniel Smith	083	0	4	56	1	2	3	26	 +1	8,8
+PR108		vermilion [cadmium scarlet]	Holbein	218	1	2	41	0	3	1	38	 -4	8,8
+PR108		cadmium red light	Holbein	214	0	2	47	1	3	1	35	 -1	8,8
+PR108		cadmium red deep	Holbein	215	0	3	51	1	2	1	32	 -3	8,8
+PR108		cadmium purple	Holbein	217	0	3	53	1	2	0	30	 0	8,8
+PR108		cadmium scarlet	Lukas	217	0	3	42	1	0	0	39	 -3	8,8
+PR108+PO20	cadmium sulfoselenide	cadmium red light	Rembrandt	303	1	4	45	1	3	1	37	 +2	8,8
+PR108		cadmium red medium	Rembrandt	314	1	4	48	1	3	1	33	 0	8,8
+PR108		cadmium red deep	Rembrandt	306	1	4	50	1	3	1	30	 -2	8,8
+PR108		cadmium red light	MaimeriBlu	226	1	4	44	1	1	2	37	 -1	8,8
+PR108		cadmium red deep	MaimeriBlu	232	0	3	54	1	2	1	27	 -1	8,8
+PR108		cadmium red light	Utrecht	143	2	3	43	0	1	2	36	 +3	8,8
+PR108		cadmium red	Utrecht	144	2	3	48	0	0	1	31	 +3	8,8
+PR108		cadmium red deep	Utrecht	144	2	3	59	0	0	1	25	 +4	8,8
+PR108		cadmium red	Blockx	323	0	4	52	1	3	1	29	 -2	8,8
+PR108		cadmium purple	Blockx	325	1	4	54	1	1	0	24	 0	8,8
+PR112	naphthol AS-D red (1911)	naphthol red	M. Graham	120	4	4	50	1	2	2	34	 -10	7,8
+PR112		permanent red	Holbein	021	1	4	51	0	3	3	36	 -14	6,7
+PR149	perylene scarlet (1957)	perylene scarlet	Daniel Smith	044	2	3	54	1	3	1	30	 -5	6,6
+PR168	anthraquinone scarlet (1913)	permanent red light	MaimeriBlu	251	3	3	41	0	2	3	38	 -7	7,7
+PR168		old holland bright red	Old Holland	151	3	1	42	0	3	0	37	 -6	7,6
+PR170	naphthol AS carbamide F3RK (1911)	permanent red	Daniel Smith	075	2	4	53	0	3	1	31	 -8	6,7
+PR170	naphthol AS carbamide F5RK (1963)	carmine [hue]	Rowney Artists	509	2	4	48	0	3	4	25	 -12	5,7
+PR170		permanent red deep	Daniel Smith	093	2	4	56	0	3	4	30	 -15	4,6
+PR170		dark red [crimson]	Schmincke	345	2	3	52	0	1	2	24	 -10	3,5
+PR170		naphthol red (mid-tone)	DaVinci	257	 paint introduced after my last pigment tests
+PR176	benzimidazolone carmine HF3C (1960)	carmine [hue]	Daniel Smith	094	3	4	58	0	3	0	 27	 -15	6,7
+PR176+PR101		permanent crimson	Art Spectrum	W17	2	3	59	0	1	0	 26	 -12	7,8
+PR177	anthraquinone red (1913)	anthraquinoid red	Daniel Smith	016	4	4	58	0	4	2	 24	 -10	7,7
+PR177		permanent red deep	MaimeriBlu	253	4	3	56	0	2	3	 22	 -9	6,7
+PR177		burgundy wine red	Old Holland	166	4	3	55	0	2	2	 24	 -11	3,6
+PR178	perylene red (1957)	perylene red	Daniel Smith	029	2	4	55	0	4	3	28	 -6	7,8
+PR178		scheveningen red medium	Old Holland	169	1	2	51	0	3	2	29	 -5	6,7
+PR179	perylene maroon (1957)	perylene maroon	Winsor & Newton	227	4	4	59	0	3	0	27	 +1	8,8
+PR179		perylene maroon	Daniel Smith	002	3	4	64	0	3	2	27	 -1	7,8
+PR179		perylene maroon	Rowney Artists	421	4	4	59	0	3	0	27	 +2	7,8
+PR179		perylene red	Rowney Artists	529	4	4	66	0	3	0	22	 -5	8,8
+PR179		perylene maroon	DaVinci	266	 paint introduced after my last pigment tests
+PR179		maroon perylene	M. Graham	113	 paint introduced after my last pigment tests
+PR188	naphthol AS BON arylamide (1911)	scarlet lake	Winsor & Newton	044	3	3	45	0	3	2	39	 -7	7,7
+PR188		organic vermilion	Daniel Smith	042	2	4	45	0	2	1	38	 -7	6,7
+PR188		permanent red	DaVinci	265	3	3	39	1	3	2	36	 -4	6,7
+PR188+PY65	naphthol AS BON arylamide + arylide yellow RN	bright red - [discontinued in 2005]	Winsor & Newton	042	3	4	39	0	1	0	42	 +5	6,6
+PR209	quinacridone red (1958)	quinacridone red	M. Graham	155	4	3	43	0	3	2	29	 -11	7,8
+PR209		quinacridone red	Winsor & Newton	230	3	4	47	0	3	1	31	 -14	7,8
+PR209		tiziano red	MaimeriBlu	261	4	3	41	0	2	3	31	 -13	7,8
+PR209		quinacridone coral	Daniel Smith	092	3	3	41	0	4	2	31	 -12	7,8
+PR209		quinacridone red	Utrecht	002	3	2	42	0	1	0	21	 -17	7,8
+PR209		quinacridone red	Rowney Artists	528	3	3	48	0	4	2	30	 -14	7,7
+PR209		cherry red	Holbein	224	3	3	48	0	3	2	30	 -17	7,7
+PR209		quinacridone red	DaVinci	2713	 paint introduced after my last pigment tests
+PR214	disazo condensation red (1951)	scheveningen red deep	Old Holland	024	2	3	57	0	3	3	30	 -11	6,7
+PR216	pyranthrone red deep (1901)	brown madder [hue]	Holbein	023	4	2	50	1	2	1	28	 +1	2,5
+PR242	disazo condensation scarlet (1960)	french vermilion [hue]	Sennelier	675	3	4	45	2	0	4	40	 -8	8,8
+PR251	pyrazoloquinazolone scarlet (1960)	permanent red - (discontinued in 2002)	Schmincke	361	2	3	50	0	1	1	36	 0	8,8
+PR254	diketo-pyrrolo pyrrole red (1983)	winsor red	Winsor & Newton	056	2	4	49	0	4	1	32	 -9	8,8
+PR254		pyrrol red	Daniel Smith	005	1	4	54	1	3	4	32	 -7	8,8
+PR254		permanent red deep	Rembrandt	371	1	4	49	1	3	4	32	 -8	8,8
+PR254		sandal red	MaimeriBlu	263	2	3	49	0	3	4	32	 -9	6,7
+PR254		pyrrol red	M. Graham	154	 paint introduced after my last pigment tests
+PR254+PO73		permanent red	Rowney Artists	371	1	4	51	1	3	4	38	 -3	4,6
+PR255	diketo-pyrrolo pyrrole scarlet (1983)	pyrrol scarlet	Daniel Smith	084	3	4	47	0	4	1	34	 -2	8,8
+PR255		vermilion hue 	Rowney Artists	588	3	4	46	0	3	1	34	 -3	8,8
+PR255		permanent red medium	Rembrandt	377	1	4	52	1	3	4	34	 -9	8,8
+PR255		vermilion [hue] 	Schmincke	365	3	4	45	0	3	1	36	 -3	8,8
+PR259		ultramarine pink	M. Graham	192	 paint introduced after my last pigment tests
+PR260	isoindoline scarlet (1964)	vermilion [hue] extra	Old Holland	148	2	2	48	0	4	0	32	 +5	8,8
+PR264	diketo-pyrrolo pyrrole rubine (1986)	pyrrol crimson	Daniel Smith	127	3	4	58	0	3	2	 27	 -9	6,7
+PR264		winsor red deep	Winsor & Newton	725	 paint introduced after my last pigment tests
+PR264		permanent alizarin crimson	M. Graham	129	 paint introduced after my last pigment tests
+PR264+PV19	diketo-pyrrolo pyrrole rubine + quinacridone violet	carmine [hue]	Rembrandt	318	2	2	61	0	3	3	 22	 +5	6,7
+PR264+PV19	diketo-pyrrolo pyrrole rubine + quinacridone rose	permanent madder purple	Rembrandt	325	3	3	45	0	3	2	 24	 +10	6,7
+PR264+PR101	diketo-pyrrolo pyrrole rubine + synthetic red iron oxide	permanent madder brown	Rembrandt	324	2	4	49	0	2	2	 29	 +5	6,6
+PR N/A	quinacridone pyrrolidone (1993)	permanent carmine	Winsor & Newton	226	3	4	57	0	3	2	 25	 -16	6,7
+PR N/A		permanent alizarin crimson	Holbein	209	3	3	58	1	2	2	 23	 -14	6,7
+PR N/A		madder red [hue] dark - [discontinued in 2007]	Schmincke	354	3	3	58	1	2	1	 22	 -13	6,7
+PR N/A+PR206	quinacridone pyrrolidone + quinacridone maroon	permanent alizarin crimson 	Winsor & Newton	225	4	3	55	0	2	1	 21	 -7	6,6
+PV29	perylene violet (1936)	perylene violet	Winsor & Newton	470	3	3	70	1	2	3	 30	 -21	.,.
+PV1+PV39	rhodamine violet + triphenylmethane violet	red violet - [discontinued in 2005]	Sennelier	905	1	3	69	0	3	0	320	 +6	3,3
+PV1+PV10 - +PV14+PB15	rhodamine violet + cobalt violet + copper phthalocyanine	mauve - [discontinued in 1994]	Winsor & Newton	 -	1	4	70	0	2	3	311	 +8	4,5
+PV7+PV15	anthraquinone violet + ultramarine violet	bright violet	Holbein	375	3	2	63	1	3	0	329	 -3	2,3
+PV14	cobalt phosphate (1859)	cobalt violet	Winsor & Newton	192	2	0	40	4	2	2	328	 -19	8,8
+PV14		cobalt magenta	Rowney Artists	417	2	0	44	3	3	1	332	 +12	8,8
+PV14		cobalt violet	Blockx	331	2	0	39	4	0	0	333	 +10	8,8
+PV14		cobalt violet	Rembrandt	539	4	0	48	3	2	1	318	 +8	8,8
+PV14		cobalt violet deep	Daniel Smith	030	4	0	53	3	3	2	318	 -6	8,8
+PV14		cobalt violet deep	Utrecht	176	4	0	40	3	2	1	319	 +4	8,8
+PV14		cobalt violet light	Holbein	110	2	0	42	3	3	1	313	 +10	8,8
+PV14		cobalt violet	DaVinci	236	1	0	35	4	1	0	329	 +7	8,8
+PV14+PB28		cobalt violet deep	DaVinci	237	1	0	34	3	1	1	321	 +4	8,8
+PV14		cobalt violet	M. Graham	099	 paint introduced after my last pigment tests
+PV14+PB28	cobalt phosphate + cobalt aluminium oxide	cobalt violet - [discontinued in 2005]	Winsor & Newton	088	3	0	30	1	1	1	327	 +2	7,8
+PV15	sodium aluminium sulfosilicate [blue violet shade] (1878)	ultramarine violet	Winsor & Newton	221	4	2	56	2	2	1	303	 +2	8,7 
+PV15		ultramarine violet	Daniel Smith	057	2	1	55	2	3	2	304	 +4	8,7 
+PV15		ultramarine violet	Rembrandt	507	4	1	54	2	3	2	306	 +3	8,6 
+PV15		ultramarine violet	MaimeriBlu	440	2	2	54	1	3	2	307	 +11	8,6 
+PV15		ultramarine violet	Old Holland	199	4	1	48	2	3	2	304	 +6	8,6 
+PV15		ultramarine violet	Rowney Artists	419	4	1	60	1	3	1	306	 +3	8,6 
+PV15		ultramarine violet	DaVinci	285	 paint introduced after my last pigment tests
+PV15		ultramarine violet [BS]	M. Graham	193	1	3	70	2	3	2	296	 -9	8,7
+PV15		ultramarine violet deep	M. Graham	194	 paint introduced after my last pigment tests
+PV15+PB29		ultramarine violet [BS]	Blockx	234	4	1	64	1	3	1	293	 -11	8,8
+PV15	sodium aluminium sulfur silicate [red violet shade] (1878)	ultramarine red	Daniel Smith	052	3	1	47	1	3	2	330	 -10	8,7
+PV16	manganese ammonium pyrophosphate (1868)	manganese violet	Daniel Smith	038	3	2	62	2	3	2	327	 +1	8,8
+PV16		permanent mauve	Winsor & Newton	491	2	1	68	4	1	2	332	 +3	8,8
+PV16		mineral violet	MaimeriBlu	460	0	3	64	1	3	1	329	 +2	8,8
+PV16		manganese violet	DaVinci	254	2	1	60	2	1	1	332	 +7	8,8
+PV16		mineral violet	M. Graham	116	 paint introduced after my last pigment tests
+PV16		manganese violet - blue	Old Holland	196	3	0	48	3	3	0	334	 +4	8,5
+PV23	dioxazine violet (1952)	carbazole violet	Daniel Smith	035	2	4	69	0	3	1	308	 -2	7,7
+PV23		winsor violet (dioxazine)	Winsor & Newton	213	3	3	71	0	2	2	306	 -1	7,7
+PV23		dioxazine purple - [discontinued in 2000]	M. Graham	100	2	4	66	0	2	3	312	 +2	6,7
+PV23		dioxazine purple	Utrecht	008	4	2	67	0	3	1	310	 +7	6,6
+PV23		permanent violet bluish	MaimeriBlu	463	2	4	71	0	2	4	306	 +2	5,6
+PV23		permanent mauve	Rowney Artists	413	4	2	72	0	3	1	304	 +4	5,6
+PV23		mauve	Schmincke	476	3	3	70	0	3	1	306	 0	3,6
+PV23+PR122	dioxazine violet + quinacridone magenta	permanent violet reddish	MaimeriBlu	465	2	2	64	0	3	4	339	 -1	5,6
+PV37	dioxazine violet (1952)	dioxazine purple	M. Graham	100	2	4	66	0	2	3	312	 +2	6,7
+PV39	triphenylmethane violet	blue violet	Sennelier	903	0	4	70	0	2	4	300	 -3	5,5
+PV49	cobalt ammonium phosphate (1859)	cobalt violet	Daniel Smith	088	4	0	39	2	3	1	329	 +7	8,8
+PV49		cobalt violet light	Utrecht	177	3	0	37	4	1	0	329	 +9	8,8
+PR88	thioindigo violet (1905; 1956)	permanent violet	Daniel Smith	074	2	4	68	1	2	1	 3	 -16	6,7
+PR88		thioindigo violet - [discontinued in 2005]	Winsor & Newton	231	4	4	64	0	3	1	 357	 -11	6,6
+PR88		garnet lake	MaimeriBlu	181	3	4	62	0	3	4	 356	 -10	6,6
+PB29+PV19	sodium polysulfide aluminosilicate + quinacridone rose	rose of ultramarine	Daniel Smith	017	2	3	67	0	3	1	333	 +1	6,7
+PB29+PV19	sodium polysulfide aluminosilicate + quinacridone rose	permanent violet red	DaVinci	172	4	2	66	0	3	2	307	 +5	6,7
+PB28+PV19	cobalt blue + quinacridone rose	cobalt blue violet	Daniel Smith	017	2	3	67	0	3	1	333	 +1	6,7
+PB28+PV19	cobalt blue + quinacridone rose	cobalt violet	MaimeriBlu	449	2	2	65	1	2	3	308	 -2	6,7
+PV15+PV23	sodium polysulfide aluminosilicate + dioxazine violet	permanent violet	Utrecht	172	4	2	66	0	3	2	307	 +5	6,6
+PB29+PV19	sodium polysulfide aluminosilicate + quinacridone rose	permanent violet blue	DaVinci	172	4	2	66	0	3	2	307	 +5	6,6
+PBk1+PBk6	aniline black + soot from lamp burned petroleum or wax
+PBk6	soot from lamp burned petroleum, gas or wax (antiquity)	lamp black	Daniel Smith	028	0	4	73	1	4	1	 &#151;	 &#151;	8,8
+PBk6		blue black - [discontinued in 2005]	Winsor & Newton	034	1	4	72	0	2	0	 &#151;	 &#151;	8,8
+PBk6+PB15 - +PV19	carbon black + phthalocyanine blue + beta quinacridone	neutral tint	Winsor & Newton	032	0	4	74	0	3	4	 &#151;	 &#151;	8,8
+PBk6+PB29	soot from lamp burned petroleum or wax + ultramarine blue	payne's gray [hue]	M. Graham	128	2	3	75	0	3	2	265	 -5	8,8
+PBk6+PBk7	soot from lamp burned petroleum or wax + soot from furnace burned
+PB15+PBk6 - +PV19	phthalocyanine blue + lamp burned petroleum or wax + quinacridone violet	payne's gray [hue]	Winsor & Newton	465	1	4	70	0	2	1	275	 -45	8,8
+PBk7	carbon black mixed with lamp black (antiquity)	carbon black	MaimeriBlu	537	1	4	73	1	3	4	 &#151;	 &#151;	8,8
+PBk7		lamp black	Daniel Smith	003	3	2	74	0	3	4	 &#151;	 &#151;	8,8
+PBk7		lamp black	Rowney Artists	035	3	2	73	0	3	4	 &#151;	 &#151;	8,8
+PBk7		charcoal gray	Schmincke	786	3	2	67	0	3	4	 &#151;	 &#151;	8,8
+PBk7+PB29	lamp black + sodium aluminum sulfosilicate	payne's gray [hue]	Rowney Artists	065	3	2	74	0	3	4	270	 &#151;	8,8
+PBk8	wood charcoal (antiquity)	vine black	Old Holland	367	3	2	62	2	4	2	 65	 +10	8,8
+PBk8+PBr7 - +PBk7	wood charcoal + natural iron manganese oxide + soot from furnace
+PBk9	soot from burned animal bone (antiquity)	ivory black	M. Graham	110	3	4	72	1	1	1	 65	 +10	8,8
+PBk9		ivory black	Winsor & Newton	026	3	4	64	1	1	1	 70	 +5	8,8
+PBk9		ivory black	Daniel Smith	048	2	3	71	2	2	2	 70	 +5	8,8
+PBk9		ivory black	Rowney Artists	034	2	3	70	2	2	2	 60	 +5	8,8
+PBk9		ivory black	MaimeriBlu	535	3	3	69	1	2	4	 &#151;	 &#151;	8,8
+PBk10	powdered graphite	graphite gray	Daniel Smith	010	0	4	55	1	2	0	 &#151;	 &#151;	8,8
+PBk11	ferrosoferric oxide(c.1980)	lunar black	Daniel Smith	021	2	3	72	3	4	2	 &#151;	 &#151;	8,8
+PBk11		mars black	Winsor & Newton	386	1	4	75	1	2	2	 &#151;	 &#151;	8,8
+PBk11		mars black	M. Graham	115	 paint introduced after my last pigment tests
+PBk19+PW4 - +PBk6	black chalk + zinc oxide + carbon black	davy's gray [hue]	Winsor & Newton	019	1	3	39	0	3	1	110	 -10	5,5
+PBk31	perylene black (1948)	perylene green	Winsor & Newton	386	 paint introduced after my last pigment tests
+PW4	zinc oxide (1782; 1834)	chinese white	Winsor & Newton	011	1	2	1	0	2	1	 85	 +5	8,8
+PW4		chinese white	Daniel Smith	011	1	2	1	0	2	1	 85	 +5	8,8
+PW4		chinese white	MaimeriBlu	216	1	2	1	0	2	1	 85	 0	8,8
+PW4		permanent chinese white	Schmincke	102	1	2	1	0	2	1	 90	 0	8,8
+PW4		chinese white	Rembrandt	011	1	2	1	0	2	1	 90	 0	8,8
+PW4+PW6	zinc oxide + titanium oxide	chinese white	Rowney Artists	001	1	2	1	0	2	1	 85	 +5	8,8
+PW6	titanium dioxide (1791)	titanium white (opaque white)	Winsor & Newton	206	2	2	0	0	2	2	 90	 0	8,8
+PW6		titanium white	Rowney Artists	009	2	2	0	0	2	2	 90	 -5	8,8
+PW6		titanium-opaque white	Schmincke	101	1	2	0	0	2	1	 90	 0	8,8
+PW6		chinese white [hue]	Holbein	715	1	2	0	0	2	1	 90	 0	8,8
+PW6		titanium white (opaque)	Holbein	203	2	2	0	0	2	2	 90	 0	8,8
+PW6		buff titanium white	Daniel Smith	015	2	0	15	0	3	2	 75	 +8	7,6
+PY1	arylide yellow G (1909)	blockx yellow - [discontinued in 2008]	Blockx	212	1	3	12	0	0	1	82	 +5	6,5
+PY1		helio genuine yellow light - [discontinued in 2005]	Lukas	1045	1	3	12	0	0	1	82	 +5	4,6
+PY3	arylide yellow 10G (1909)	hansa yellow light	DaVinci	242	2	3	4	0	3	2	97	 +3	7,6
+PY3		lemon yellow	Schmincke	215	2	3	6	0	2	2	95	 +4	7,6
+PY3		helio genuine yellow lemon	Lukas	1044	2	3	4	0	3	2	97	 +3	7,6
+PY3		lemon yellow	Sennelier	501	3	2	5	0	0	1	96	 +2	6,7
+PY3		hansa yellow light	Daniel Smith	070	3	4	7	0	3	2	94	 +4	6,6
+PY3		lemon yellow	Utrecht	122	4	2	4	0	3	0	97	 +3	5,6
+PY3		lemon yellow	Art Spectrum	W12	2	3	4	0	3	2	97	 +3	6,5
+PY3		lemon yellow	Rowney Artists	651	2	3	8	0	2	1	93	 +2	3,7
+PY3+PY42		aureolin [hue]	Holbein	215	3	1	9	0	4	3	87	 +5	7,7
+PY34	lead chromate (1797)	chrome yellow deep - [discontinued]	Winsor & Newton	 -	2	4	11	0	1	3	79	 +7	6,4
+PY34:1	lead chromate + lead sulfate	chrome lemon yellow - [discontinued]	Winsor & Newton	 -	2	4	8	0	1	2	91	 +4	5,4
+PY35	cadmium zinc sulfide (1844)	cadmium lemon	Winsor & Newton	080	1	4	7	0	1	2	91	 0	8,8
+PY35		cadmium yellow pale	Winsor & Newton	087	2	4	12	0	2	1	81	 +6	8,8
+PY35+PO20	cadmium zinc sulfide + cadmium sulfide	cadmium yellow	Winsor & Newton	085	1	4	17	0	2	1	74	 +8	8,8
+PY35+PR108	cadmium zinc sulfide+cadmium sulfoselenide	cadmium yellow deep	Winsor & Newton	086	2	4	23	0	3	1	67	 +12	8,8
+PY35		cadmium yellow light	M. Graham	070	1	4	7	0	1	3	90	 +3	8,8
+PY35		cadmium yellow	M. Graham	060	2	4	13	0	3	2	79	 +7	8,8
+PY35		cadmium yellow pale	Rowney Artists	611	2	3	7	0	1	1	90	 +6	8,7
+PY35		cadmium yellow	Rowney Artists	612	2	3	10	0	0	1	85	 +8	8,6
+PY35		cadmium yellow deep	Rowney Artists	613	2	2	19	0	0	1	68	 +12	8,7
+PY37	cadmium sulfide (1842)	cadmium yellow lemon	Holbein	040	2	2	5	0	0	1	96	 +1	8,8
+PY37		cadmium yellow pale	Holbein	041	2	2	8	0	1	1	90	 +5	8,8
+PY37		cadmium yellow light	Holbein	042	2	2	10	0	1	2	83	 +4	8,8
+PY37+PO20	cadmium sulfide + cadmium sulfoselenide	cadmium yellow deep	Holbein	043	2	2	20	0	2	0	70	 +11	8,8
+PY35		cadmium yellow lemon	DaVinci	218	1	3	3	0	1	3	99	 +3	7,7
+PY35		cadmium yellow light	DaVinci	217	2	3	8	0	2	2	88	 +6	8,7
+PY35		cadmium yellow medium	DaVinci	216	2	3	9	0	2	2	84	 +5	8,7
+PY35+PO20		cadmium yellow deep	DaVinci	215	2	3	18	0	2	3	72	 +10	8,8
+PY35		cadmium yellow lemon	Rembrandt	207	2	3	5	0	1	2	93	 +3	8,8
+PY35		cadmium yellow light	Rembrandt	208	2	3	8	0	1	2	88	 +4	8,7
+PY35		cadmium yellow medium	Rembrandt	271	1	3	13	0	2	2	80	 +2	8,7
+PY35+PO20		cadmium yellow deep	Rembrandt	210	1	3	18	0	2	2	70	 +5	8,8
+PY35		cadmium yellow deep	Lukas	1028	1	3	13	0	2	2	80	 +2	8,8
+PY35:1	cadmium zinc lithopone	cadmium yellow light - [discontinued in 2006]	Daniel Smith	087	2	4	5	0	2	2	93	 +6	8,7
+PY35:1		cadmium yellow - [discontinued in 2006]	Daniel Smith	085	2	4	13	0	1	1	80	 +6	8,8
+PY37:1	cadmium lithopone (1842)	cadmium yellow deep - [discontinued in 2006]	Daniel Smith	086	1	4	19	0	3	1	67	 +12	8,8
+PY35		cadmium yellow lemon	MaimeriBlu	082	1	3	5	0	2	2	95	 +4	8,7
+PY35		cadmium yellow light	MaimeriBlu	081	2	3	8	0	2	1	91	 +6	7,5
+PY35		cadmium yellow deep	MaimeriBlu	084	1	4	23	1	2	1	62	 +11	8,7
+PY37		cadmium yellow light	Utrecht	126	2	2	10	0	2	1	83	 +7	8,8
+PY37		cadmium yellow deep	Utrecht	128	2	3	25	0	3	1	57	 +5	8,8
+PY35		cadmium pale	Blockx	311	1	2	5	0	3	3	93	 +5	8,8
+PY35		cadmium medium	Blockx	315	1	3	13	0	3	1	74	 +7	8,8
+PY40	potassium cobaltinitrite - (1848; 1861)	aureolin	Rembrandt	242	2	2	18	0	1	2	84	 +5	5,7
+PY40		aureolin	Rowney Artists	601	2	2	15	0	2	2	87	 +5	4,7
+PY40		aureolin	Sennelier	559	1	2	12	0	3	2	88	 +5	4,6
+PY40		aureolin	Art Spectrum	W32	2	2	16	0	1	2	84	 +5	4,6
+PY40		aureolin	Winsor & Newton	063	4	2	16	1	4	0	85	 +9	4,4
+PY40		aureolin [cobalt yellow]	Daniel Smith	063	3	1	11	0	2	2	86	 +8	3,5
+PY37+PY42 - +PW4	cadmium sulfide + synthetic yellow iron oxide + zinc oxide	naples yellow [hue]	Holbein	230	3	1	13	0	1	2	86	 0	7,8
+PY37+PY42 - +PW4		naples yellow [hue]	Blockx	115	2	1	13	0	2	2	73	 +8	8,8
+PY35+ - PR108+PW6	cadmium sulfide + cadmium sulfoselenide + zinc oxide	naples yellow [hue]	Rowney Artists	634	2	1	14	0	2	1	66	 +13	8,8
+PR108+ - PO20+PW6	cadmium sulfoselenide + titanium oxide	jaune brilliant #2	Holbein	232	1	2	16	0	2	1	54	 +9	7,8 
+PY35+ - PR101+PW4	cadmium sulfide + synthetic red iron oxide + zinc oxide	naples yellow [hue] - [discontinued in 2005]	Winsor & Newton	031	2	0	14	0	3	2	75	 +9	7,5
+PY35+ - PR101+PW4		naples yellow [hue]	Daniel Smith	105	3	1	28	0	3	2	60	 +14	6,5
+PY97+PY42 - +PW4	arylide yellow FGL + synthetic yellow iron oxide + zinc oxide	naples yellow light [hue]	MaimeriBlu	105	2	0	10	0	1	2	89	 +7	2,4
+PY53	nickel titanium oxide (1963)	lemon yellow	Winsor & Newton	070	1	4	9	1	0	1	94	 +3	8,8
+PY53		nickel titanate yellow	Daniel Smith	061	2	1	8	0	1	2	95	 +2	8,8
+PY53		nickel titanate yellow	Rowney Artists	637	2	2	5	0	1	1	96	 +3	8,8
+PY53		nickel titanate yellow	MaimeriBlu	109	1	3	6	0	2	2	96	 +4	8,8
+PY53		nickel titanate yellow	DaVinci	2601	 paint introduced after my last pigment tests
+PY53		nickel titanium yellow - [discontinued in 2005]	Winsor & Newton	224	2	4	14	1	0	1	84	 +9	8,6
+PY53+PY55	nickel titanium oxide + diarylide yellow (1952)	permanent yellow deep	Holbein	123	2	0	16	0	3	1	71	 +10	2,4
+PY65	arylide yellow 3RN (1952)	winsor yellow deep	Winsor & Newton	214	2	4	16	0	3	1	73	 +6	8,8
+PY65		hansa yellow deep	Daniel Smith	031	3	4	16	0	4	1	71	 +8	7,8
+PY65		hansa yellow deep	Utrecht	123	2	0	16	0	3	1	71	 +16	7,8
+PY74	diarylide yellow HR (1940)	hansa yellow medium	Da Vinci	242-2F	 paint introduced after my last pigment tests
+PY83	diarylide yellow HR (1940)	scheveningen yellow deep	Old Holland	015	2	2	21	0	3	2	70	 +8	7,8
+PY83+PY95	diarylide yellow HR + arylide yellow FG	indian yellow [hue]	Holbein	245	2	1	22	0	4	0	73	 +12	3,6
+PY97	arylide yellow FGL (1953)	hansa yellow medium	Daniel Smith	039	2	3	10	0	2	2	85	 +7	7,7
+PY97		transparent yellow - [discontinued in 2005]	Winsor & Newton	219	3	4	9	0	3	1	87	 +9	6,7
+PY97		primary yellow	MaimeriBlu	116	3	3	8	0	3	4	89	 +7	6,7
+PY97		arylide yellow FGL	DaVinci	203	3	3	7	0	1	2	88	 +4	6,7
+PY97		hansa yellow deep	M. Graham	106	 paint introduced after my last pigment tests
+PY97+PG36	arylide yellow FGL + chlorobrominated copper phthalocyanine	permanent green yellowish	MaimeriBlu	338	4	2	7	0	3	4	94	 +3	7,7
+PY108	anthrapyrimidine yellow	indian yellow [hue]	Daniel Smith	024	3	2	17	1	3	1	68	 +19	7,7
+PY108		gamboge modern	Schmincke	210	2	3	21	0	4	2	71	 +15	7,6
+PY110	isoindolinone yellow R (1964)	permanent yellow deep	Daniel Smith	133	3	2	22	0	3	1	60	 +7	8,8
+PY110		indian yellow [hue]	M. Graham	190	 paint introduced after my last pigment tests
+PY110		gamboge [hue] - [discontinued 2001]	M. Graham	105	4	2	18	0	4	3	71	 +11	7,8
+PY117	azomethine copper complex (1972)	greenish yellow	Holbein	046	2	2	30	2	3	3	88	 +6	3,6
+PY120	benzimidiazolone yellow (1960)	scheveningen yellow medium	Old Holland	014	3	3	13	0	1	3	82	 +9	3,6
+PY129	azomethine copper complex (1972)	green gold	Winsor & Newton	217	3	4	30	1	2	2	87	 +6	7,8
+PY129		green gold	Rowney Artists	373	3	1	35	1	3	0	85	 +5	7,8
+PY129		golden green	Old Holland	295	3	1	39	1	3	0	82	 +9	7,8
+PY129		azo green	M. Graham	016	 paint introduced after my last pigment tests
+PY138	quinophthalone yellow (1973)	permanent yellow	Rowney Artists	014	3	3	11	0	1	3	87	 +9	7,7
+PY139	isoindoline yellow (1964)	permanent yellow deep	MaimeriBlu	114	3	3	20	0	3	4	68	 +5	8,8
+PY139+PO49	isoindoline yellow + quinacridone deep gold	indian yellow [hue] - [discontinued 2005]	MaimeriBlu	098	3	3	24	0	2	4	68	 +4	8,8
+PY150	nickel azomethine yellow (1970)	nickel azo yellow	Daniel Smith	108	3	2	25	1	3	1	66	 +20	8,7
+PY150		transparent yellow	Winsor & Newton	653	4	3	22	1	4	2	78	 +12	.,.
+PY150		translucent yellow	Schmincke	209	3	2	21	1	2	2	77	 +12	7,8
+PY150		nickel azo yellow	M. Graham	123	 paint introduced after my last pigment tests
+PY150+ - PR206+PV19	nickel azomethine yellow + quinacridone maroon + quinacridone violet	quinacridone gold [hue]	Winsor & Newton	547	3	3	42	2	4	2	62	 +30	.,.
+PY150+PO48	nickel azomethine yellow + quinacridone gold	gamboge [hue]	Rembrandt	238	3	2	31	1	2	2	72	 +17	8,8
+PY150+PO48		nickel quinacridone gold	M. Graham	124	 paint introduced after my last pigment tests
+PY151	benzimidazolone yellow (1960)	azo yellow (aureolin [hue])	M. Graham	018	3	3	7	0	3	4	89	 +7	7,8
+PY151		aureolin modern	Schmincke	208	2	4	11	0	3	1	85	 +10	7,7
+PY153	nickel dioxine yellow (1963)	new gamboge	Winsor & Newton	319	3	4	14	0	2	2	71	 +13	8,8
+PY153		new gamboge	Daniel Smith	020	3	1	22	0	4	1	66	 +16	8,8
+PY153		indian yellow [hue]	Rowney Artists	643	3	1	24	1	3	1	67	 +13	8,8
+PY153		indian yellow [hue]	Sennelier	517	4	4	16	2	1	2	74	 +10	8,8
+PY153		indian yellow [hue]	Utrecht	129	4	0	17	0	3	2	70	 +17	7,8
+PY153+PO62		indian yellow [hue]	Winsor & Newton	267	2	2	21	0	3	1	66	 +16	7,8
+PY154	benzimidazolone yellow H3G (1960)	winsor yellow	Winsor & Newton	058	3	4	9	0	1	3	87	 +10	8,8
+PY154		sennelier yellow light	Sennelier	578	3	3	11	0	0	0	84	 +8	8,8
+PY154		azo yellow light	Rembrandt	268	3	3	11	0	0	0	83	 +9	8,7
+PY154+PO43	benzimidazolone yellow + perinone orange	azo yellow deep	Rembrandt	268	3	3	21	0	0	0	67	 +9	7,7
+PY154+PO48	benzimidazolone yellow + quinacridone gold	indian yellow [hue]	Rembrandt	244	3	3	21	0	0	0	73	 +15	8,7
+PY154+PO62	benzimidazolone yellow + benzimidazolone orange	azo yellow medium	Rembrandt	268	3	3	15	0	0	0	71	 +15	8,7
+PY159	zirconium praesodymium silicate	lemon yellow deep	Winsor & Newton	348	2	1	9	2	1	1	90	 +5	.,.
+PY175	benzimidazolone yellow H6G (1960)	winsor lemon	Winsor & Newton	211	3	4	8	0	1	2	94	 +6	7,8
+PY175		permanent yellow lemon	MaimeriBlu	112	4	3	5	0	1	4	96	 +3	7,8
+PY184	bismuth vanadate (1924)	bismuth yellow	Winsor & Newton	222	2	4	6	0	1	1	94	 +3	8,8
+PY184		bismuth yellow	Rowney Artists	629	1	3	6	0	1	1	93	 +5	8,8
+PY184		vanadium yellow	Schmincke	207	1	3	7	0	1	1	94	 +4	7,8
+PY184		permanent lemon yellow	Rembrandt	254	1	3	8	0	1	1	93	 +5	6,4
+PY184		bismuth yellow	M. Graham	019	 paint introduced after my last pigment tests
+PY216	titanium zinc antimony stannate	turner's yellow [hue]	Winsor & Newton	649	2	2	16	0	3	2	79	 +11	.,.
+PG10	azomethine nickel complex (1946)	green gold - [discontinued in 2000]	Daniel Smith	037	3	4	33	2	4	3	94	 +3	7,7
+PG10		australian green gold - [discontinued in 2005]	Art Spectrum	W39	2	4	27	0	1	0	97	 +1	7,7
