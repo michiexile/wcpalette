@@ -76,6 +76,8 @@ function setupSVG() {
 
   gr.append('circle')
     .attr('r', r);
+
+  svg.onclick = drawSelected;
 }
 
 var pts;
