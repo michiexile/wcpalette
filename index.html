@@ -42,10 +42,10 @@ var hpdata = new Array();
 
 d3.tsv('hpraw.csv')
   .row(function(d) { hpdata.push(d); })
-  .get(function(err, d) { tsvLoaded(err, d); });
+  .get();
 
 var opts;
-function tsvLoaded(err, d) {
+function setupSelector(err, d) {
     opts = d3.select('#colorselect')
 	.selectAll('option')
 	.data(hpdata)
@@ -96,6 +96,7 @@ function drawSelected() {
 function myOnload() {
   console.log('myOnload')
   setupSVG();
+  setupSelector();
 }
 window.onload = myOnload;
 
