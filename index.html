@@ -42,7 +42,18 @@ var hpdata = new Array();
 
 d3.tsv('hpraw.csv')
   .row(function(d) { hpdata.push(d); })
-  .get();
+  .get(function(err, d) { tsvLoaded(err, d); });
+
+var opts;
+function tsvLoaded(err, d) {
+    opts = d3.select('#colorselect')
+	.selectAll('option')
+	.data(hpdata)
+        .enter()
+	.append('option')
+	.attr('label', function(r) {return r['PIGMENT - C.I. NAME'];})
+        .text(function(r) {return r['PAINT - MARKETING NAME'] +": "+ r['MANUFACTURER'] +" "+ r['CODE']; });
+}
 
 var r = d3.scale.linear()
   .domain([0, 100])
@@ -97,7 +108,10 @@ window.onload = myOnload;
 
 <div id="colorwheel">
 </div>
-  
+<div id="colorseldiv">
+    <select id="colorselect" multiple>
+    </select>
+</div>
 
 <hr>
 <address></address>
