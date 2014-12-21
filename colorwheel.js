@@ -25,12 +25,11 @@ function setupSelector(err, d) {
     drawSelected();
 }
 function resort(condition) {
+    d3.select('#colorselect').selectAll('option').remove();
     opts = d3.select('#colorselect')
 	.selectAll('option')
-        .remove()
 	.data(hpdata)
 	.sort(function(a,b){return d3.ascending(a[condition], b[condition]);})
-        .enter()
 	.append('option')
 	.attr('label', function(r) {return r['IDX'];})
         .text(function(r) {return r['PAINT - MARKETING NAME'] +": "+ r['MANUFACTURER'] +" "+ r['CODE']; });
