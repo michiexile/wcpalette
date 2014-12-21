@@ -11,7 +11,7 @@ function selected(e) {
     var r = hpdata[seli];
     d3.select('#selectedcolors')
 	.append('li')
-	.attr('name', r['PIGMENT - C.I. NAME'])
+	.attr('name', r['IDX'])
 	.text(r['PAINT - MARKETING NAME'] +": "+ r['MANUFACTURER'] +" "+ r['CODE']);
 }
 function setupSelector(err, d) {
