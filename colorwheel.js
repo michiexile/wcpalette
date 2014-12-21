@@ -82,6 +82,7 @@ function myOnload() {
     setupSVG();
     d3.tsv('hpraw.csv')
 	.row(function(d) { hpdata.push(d); })
-	.get(setupSelector);
+	.get();
+    setupSelector();
 }
 window.onload = myOnload;
