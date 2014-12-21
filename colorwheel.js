@@ -61,7 +61,7 @@ function drawSelected() {
 		    opaque = true;
 		}
 	    }
-	    return opaque?1.0:0.3;
+	    return opaque?1.0:0.1;
 	};
     } else {
 	fillopacity = 1.0;
