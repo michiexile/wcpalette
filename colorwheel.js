@@ -9,10 +9,10 @@ d3.tsv('hpraw.csv')
   .get();
 
 var opts;
-//function selected(e) {
+function selected(e) {
 //    selop = d3.selectAll('#colorselect option:selected');
 //    d3.select('#selectedcolors').append('
-//}
+}
 function setupSelector(err, d) {
     opts = d3.select('#colorselect')
 	.selectAll('option')
