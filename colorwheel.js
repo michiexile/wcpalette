@@ -66,6 +66,7 @@ function drawSelected() {
     } else {
 	fillopacity = 1.0;
     }
+    svg.selectAll('.colpts').remove();
     pts = svg.append('g')
 	.attr('class', 'colpts')
 	.selectAll('g')
