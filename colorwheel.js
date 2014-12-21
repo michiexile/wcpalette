@@ -24,7 +24,17 @@ function setupSelector(err, d) {
         .text(function(r) {return r['PAINT - MARKETING NAME'] +": "+ r['MANUFACTURER'] +" "+ r['CODE']; });
     drawSelected();
 }
-
+function resort(condition) {
+    opts = d3.select('#colorselect')
+	.selectAll('option')
+        .remove()
+	.data(hpdata)
+	.sort(function(a,b){return d3.ascending(a[condition], b[condition]);})
+        .enter()
+	.append('option')
+	.attr('label', function(r) {return r['IDX'];})
+        .text(function(r) {return r['PAINT - MARKETING NAME'] +": "+ r['MANUFACTURER'] +" "+ r['CODE']; });
+}
 var r = d3.scale.linear()
   .domain([0, 100])
   .range([0, radius]);
