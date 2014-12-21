@@ -9,6 +9,10 @@ d3.tsv('hpraw.csv')
   .get();
 
 var opts;
+//function selected(e) {
+//    selop = d3.selectAll('#colorselect option:selected');
+//    d3.select('#selectedcolors').append('
+//}
 function setupSelector(err, d) {
     opts = d3.select('#colorselect')
 	.selectAll('option')
@@ -17,6 +21,7 @@ function setupSelector(err, d) {
 	.append('option')
 	.attr('label', function(r) {return r['PIGMENT - C.I. NAME'];})
         .text(function(r) {return r['PAINT - MARKETING NAME'] +": "+ r['MANUFACTURER'] +" "+ r['CODE']; });
+    d3.select('#colorselect').onchange = selected;
 }
 
 var r = d3.scale.linear()
