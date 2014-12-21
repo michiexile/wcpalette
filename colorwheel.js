@@ -35,6 +35,7 @@ function setupSelector(err, d) {
 	.attr('label', function(r) {return r['PIGMENT - C.I. NAME'];})
         .text(function(r) {return r['PAINT - MARKETING NAME'] +": "+ r['MANUFACTURER'] +" "+ r['CODE']; });
     d3.select('#colorselect').onchange = selected;
+    drawSelected();
 }
 
 var r = d3.scale.linear()
@@ -84,6 +85,5 @@ function myOnload() {
     d3.tsv('hpraw.csv')
 	.row(function(d) { hpdata.push(d); })
 	.get(function(e, rs) { setupSelector(); });
-    //setupSelector();
 }
 window.onload = myOnload;
