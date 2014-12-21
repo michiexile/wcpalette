@@ -47,24 +47,38 @@ function setupSVG() {
 
   gr.append('circle')
     .attr('r', r);
-
-  d3.select('#colorwheel').append('p').text('Draw').onclick = drawSelected;
 }
 
 var pts;
 function drawSelected() {
-  pts = svg.append('g')
-    .attr('class', 'colpts')
-    .selectAll('g')
-    .data(hpdata)
-    .enter()
-    .append('g');
-  pts.append('circle')
-    .attr('r', 2)
-    .attr('cx', function (d) { return Math.cos(d.HA*2*Math.PI/360)*d.VR; })
-    .attr('cy', function (d) { return Math.sin(d.HA*2*Math.PI/360)*d.VR; })
-    .style('fill', function(d) { return d3.hsl(d.HA, 1.0, d.VR/100.0).toString(); });
-  console.log('clicked');
+    var sels = d3.select('#colorselect').node().selectedOptions;
+    var fillopacity;
+    if(sels.length > 0) {
+	fillopacity = function(d) { 
+	    var opaque = false;
+	    for(i=0; i<sels.length; i++) {
+		if(sels[i].label == d.IDX) {
+		    opaque = true;
+		}
+	    }
+	    return opaque?1.0:0.3;
+	};
+    } else {
+	fillopacity = 1.0;
+    }
+    pts = svg.append('g')
+	.attr('class', 'colpts')
+	.selectAll('g')
+	.data(hpdata)
+	.enter()
+	.append('g');
+    pts.append('circle')
+	.attr('r', 2)
+	.attr('cx', function (d) { return Math.cos(d.HA*2*Math.PI/360)*d.VR; })
+	.attr('cy', function (d) { return Math.sin(d.HA*2*Math.PI/360)*d.VR; })
+	.attr('id', function (d) { return "circle" + d.IDX; })
+	.style('fill', function(d) { return d3.hsl(d.HA, 1.0, d.VR/100.0).toString(); })
+	.style('fill-opacity', fillopacity);
 }
 
 function myOnload() {
