@@ -24,10 +24,7 @@ function setupSelector(err, d) {
     drawSelected();
 }
 function resort(condition) {
-    opts = d3.select('#colorselect')
-	.selectAll('option')
-	.data(hpdata, function(d){return d[condition];});
-    opts.order();
+    opts.order(function(a,b){return d3.ascending(a[condition], b[condition]);});
 }
 var r = d3.scale.linear()
   .domain([0, 100])
