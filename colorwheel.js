@@ -20,7 +20,7 @@ function setupSelector(err, d) {
 	.data(hpdata)
         .enter()
 	.append('option')
-	.attr('label', function(r) {return r['PIGMENT - C.I. NAME'];})
+	.attr('label', function(r) {return r['IDX'];})
         .text(function(r) {return r['PAINT - MARKETING NAME'] +": "+ r['MANUFACTURER'] +" "+ r['CODE']; });
     d3.select('#colorselect').onchange = selected;
     drawSelected();
