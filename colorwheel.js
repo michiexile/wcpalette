@@ -4,10 +4,6 @@ var width = 300,
 
 var hpdata = new Array();
 
-d3.tsv('hpraw.csv')
-  .row(function(d) { hpdata.push(d); })
-  .get();
-
 var opts;
 function selected(e) {
     var seli = d3.select('#colorselect').node().selectedIndex;
@@ -82,8 +78,10 @@ function drawSelected() {
 }
 
 function myOnload() {
-  console.log('myOnload')
-  setupSVG();
-  setupSelector();
+    console.log('myOnload')
+    setupSVG();
+    d3.tsv('hpraw.csv')
+	.row(function(d) { hpdata.push(d); })
+	.get(setupSelector);
 }
 window.onload = myOnload;
