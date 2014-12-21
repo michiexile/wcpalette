@@ -25,7 +25,8 @@ function setupSelector(err, d) {
     drawSelected();
 }
 function resort(condition) {
-    opts.order(function(a,b){return d3.ascending(a[condition], b[condition]);});
+    opts.sort(function(a,b){return d3.ascending(a[condition], b[condition]);})
+	.order();
 }
 var r = d3.scale.linear()
   .domain([0, 100])
