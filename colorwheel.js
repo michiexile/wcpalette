@@ -22,7 +22,6 @@ function setupSelector(err, d) {
 	.append('option')
 	.attr('label', function(r) {return r['IDX'];})
         .text(function(r) {return r['PAINT - MARKETING NAME'] +": "+ r['MANUFACTURER'] +" "+ r['CODE']; });
-    d3.select('#colorselect').onchange = selected;
     drawSelected();
 }
 
