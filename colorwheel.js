@@ -77,8 +77,8 @@ function drawSelected() {
 	.attr('cx', function (d) { return Math.cos(d.HA*2*Math.PI/360)*d.VR; })
 	.attr('cy', function (d) { return Math.sin(d.HA*2*Math.PI/360)*d.VR; })
 	.attr('id', function (d) { return "circle" + d.IDX; })
-	.style('fill', function(d) { return d3.hsl(d.HA, 1.0, d.VR/100.0).toString(); })
-	.style('fill-opacity', fillopacity);
+	.attr('fill', function(d) { return d3.hsl(d.HA, 1.0, d.VR/100.0).toString(); })
+	.attr('opacity', fillopacity);
 }
 
 function myOnload() {
