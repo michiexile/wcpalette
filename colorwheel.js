@@ -27,12 +27,13 @@ function setupSelector(err, d) {
 function resort(condition) {
     opts = d3.select('#colorselect')
 	.selectAll('option')
-	.data(hpdata)
-	.order(function(a,b){return d3.ascending(a[condition], b[condition]);});
-//	.enter()
-//	.append('option')
-//	.attr('label', function(r) {return r['IDX'];})
-//	.text(function(r) {return r['PAINT - MARKETING NAME'] +": "+ r['MANUFACTURER'] +" "+ r['CODE']; });
+	.data(hpdata, function(d){return d[condition];});
+    opts.enter()
+	.append('option')
+	.attr('label', function(r) {return r['IDX'];})
+        .text(function(r) {return r['PAINT - MARKETING NAME'] +": "+ r['MANUFACTURER'] +" "+ r['CODE']; });
+    opts.exit().remove();
+    opts.order();
 }
 var r = d3.scale.linear()
   .domain([0, 100])
