@@ -29,8 +29,8 @@ function resort(condition) {
     opts = d3.select('#colorselect')
 	.selectAll('option')
 	.data(hpdata)
-	.sort(function(a,b){return d3.ascending(a[condition], b[condition]);})
 	.enter()
+	.sort(function(a,b){return d3.ascending(a[condition], b[condition]);})
 	.append('option')
 	.attr('label', function(r) {return r['IDX'];})
         .text(function(r) {return r['PAINT - MARKETING NAME'] +": "+ r['MANUFACTURER'] +" "+ r['CODE']; });
