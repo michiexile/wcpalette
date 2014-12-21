@@ -10,8 +10,24 @@ d3.tsv('hpraw.csv')
 
 var opts;
 function selected(e) {
-//    selop = d3.selectAll('#colorselect option:selected');
-//    d3.select('#selectedcolors').append('
+    var seli = d3.select('#colorselect').node().selectedIndex;
+    var r = hpdata[seli];
+    d3.select('#selectedcolors')
+	.append('li')
+	.attr('name', r['PIGMENT - C.I. NAME'])
+	.text(r['PAINT - MARKETING NAME'] +": "+ r['MANUFACTURER'] +" "+ r['CODE']);
+}
+function deselected(e) {
+    var target = e.target;
+    var ul = document.getElementById('selectedcolors');
+    while(target && target.parentNode !== ul) {
+	target = target.parentNode;
+	if(!target) { return; }
+    }
+    if(e.target.tagName === 'LI') {
+	clickid = e.target.id;
+	
+    }
 }
 function setupSelector(err, d) {
     opts = d3.select('#colorselect')
