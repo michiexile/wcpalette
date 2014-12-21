@@ -82,7 +82,7 @@ function drawSelected() {
 function myOnload() {
     console.log('myOnload')
     setupSVG();
-    d3.tsv('hpraw.csv')
+    d3.tsv('hp.csv')
 	.row(function(d) { hpdata.push(d); })
 	.get(function(e, rs) { setupSelector(); });
 }
