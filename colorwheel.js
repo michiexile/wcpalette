@@ -6,6 +6,7 @@ var hpdata = new Array();
 
 var opts;
 function selected(e) {
+    console.log(e)
     var seli = d3.select('#colorselect').node().selectedIndex;
     var r = hpdata[seli];
     d3.select('#selectedcolors')
